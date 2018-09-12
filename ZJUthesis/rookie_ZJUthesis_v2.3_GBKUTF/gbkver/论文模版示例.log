@@ -1,10 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=latex 2018.7.29)  12 SEP 2018 18:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.8.12)  12 SEP 2018 22:11
 entering extended mode
  restricted \write18 enabled.
- Source specials enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**¬€Œƒƒ£∞Ê æ¿˝.tex
-(./¬€Œƒƒ£∞Ê æ¿˝.tex
+**d:/document/zjuthesis/ZJUthesis/rookie_ZJUthesis_v2.3_GBKUTF/gbkver/¬€Œƒƒ£∞Ê 
+æ¿˝
+
+(d:/document/zjuthesis/ZJUthesis/rookie_ZJUthesis_v2.3_GBKUTF/gbkver/¬€Œƒƒ£∞Ê æ
+¿˝.tex
 LaTeX2e <2018-04-01> patch level 5
 (./ZJUthesisv2.cls
 Document Class: ZJUthesisv2 2016/02/17 v2.2 ZJUthesis document class
@@ -159,18 +162,19 @@ Package: expl3 2018-06-14 L3 programming layer (code)
 \l__seq_internal_a_int=\count162
 \l__seq_internal_b_int=\count163
 )
-(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3dvips.def
-File: l3dvips.def 2018-06-14 v L3 Experimental driver: dvips
+(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2018-06-14 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count164
 ))
 Document Class: ctexbook 2018/05/02 v2.4.14 Chinese adapter for class book (CTE
 X)
 (c:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2018-05-12 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count164
-\g__xparse_grabber_int=\count165
-\l__xparse_m_args_int=\count166
-\l__xparse_mandatory_args_int=\count167
-\l__xparse_v_nesting_int=\count168
+\l__xparse_current_arg_int=\count165
+\g__xparse_grabber_int=\count166
+\l__xparse_m_args_int=\count167
+\l__xparse_mandatory_args_int=\count168
+\l__xparse_v_nesting_int=\count169
 )
 (c:/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2018-05-12 LaTeX2e option processing using LaTeX3 keys
@@ -265,10 +269,10 @@ File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
 (c:/texlive/2018/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\l__ctex_tmp_int=\count169
+\l__ctex_tmp_int=\count170
 \l__ctex_tmp_box=\box41
 \l__ctex_tmp_dim=\dimen134
-\g__ctex_font_size_flag=\count170
+\g__ctex_font_size_flag=\count171
 
 (c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
 File: ctexopts.cfg 2018/05/02 v2.4.14 Option configuration file (CTEX)
@@ -278,15 +282,15 @@ Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
 (c:/texlive/2018/texmf-dist/tex/latex/base/bk12.clo
 File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count171
-\c@chapter=\count172
-\c@section=\count173
-\c@subsection=\count174
-\c@subsubsection=\count175
-\c@paragraph=\count176
-\c@subparagraph=\count177
-\c@figure=\count178
-\c@table=\count179
+\c@part=\count172
+\c@chapter=\count173
+\c@section=\count174
+\c@subsection=\count175
+\c@subsubsection=\count176
+\c@paragraph=\count177
+\c@subparagraph=\count178
+\c@figure=\count179
+\c@table=\count180
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen135
@@ -372,11 +376,11 @@ LaTeX Info: Redefining \selectfont on input line 755.
 )
 (c:/texlive/2018/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
 Package: CJKpunct 2016/05/14 4.8.4
-\CJKpunct@cnta=\count180
-\CJKpunct@cntb=\count181
-\CJKpunct@cntc=\count182
-\CJKpunct@cntd=\count183
-\CJKpunct@cnte=\count184
+\CJKpunct@cnta=\count181
+\CJKpunct@cntb=\count182
+\CJKpunct@cntc=\count183
+\CJKpunct@cntd=\count184
+\CJKpunct@cnte=\count185
    defining Unicode char U+2018 (decimal 8216)
    defining Unicode char U+2019 (decimal 8217)
    defining Unicode char U+201C (decimal 8220)
@@ -406,7 +410,7 @@ Package: CJKulem 2015/04/18 4.8.4
 \UL@skip=\skip49
 \UL@hook=\toks14
 \UL@height=\dimen136
-\UL@pe=\count185
+\UL@pe=\count186
 \UL@pixel=\dimen137
 \ULC@box=\box45
 Package: ulem 2012/05/18
@@ -416,7 +420,7 @@ Package: ulem 2012/05/18
 \CJK@skip=\skip50
 )
 \CJK@fntefSkip=\skip51
-\CJK@nest=\count186
+\CJK@nest=\count187
 \CJK@fntefDimen=\dimen140
 \CJK@underdotBox=\box46
 \CJK@ULbox=\box47
@@ -509,15 +513,15 @@ Package: zhnumber 2018/01/28 v2.6 Typesetting numbers with Chinese glyphs
 . 
 . Defining command \zhdate with sig. '+s+m' on line 382.
 .................................................
-\l__zhnum_scale_int=\count187
+\l__zhnum_scale_int=\count188
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \zhnumExtendScaleMap with sig. '>{\TrimSpaces }+o+m' on
 . line 504.
 .................................................
-\l__zhnum_byte_min_int=\count188
-\l__zhnum_byte_max_int=\count189
+\l__zhnum_byte_min_int=\count189
+\l__zhnum_byte_max_int=\count190
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -584,7 +588,8 @@ or Vista or later version (CTEX)
 (c:/texlive/2018/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
 File: zhwindowsfonts.tex 2018/05/01 v2.4.14 Windows font map loader for pdfTeX 
 and DVIPDFMx (CTEX)
-)
+{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicod
+e.sfd})
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -667,7 +672,7 @@ Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package pdftexcmds Info: \pdfdraftmode found.
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
@@ -698,15 +703,15 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen144
-\Hy@linkcounter=\count190
-\Hy@pagecounter=\count191
+\Hy@linkcounter=\count191
+\Hy@pagecounter=\count192
 
 (c:/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count192
+\Hy@SavedSpaceFactor=\count193
 
 (c:/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -719,7 +724,7 @@ Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count193
+\c@Hy@tempcnt=\count194
 
 (c:/texlive/2018/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
@@ -727,7 +732,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5115.
 \XeTeXLinkMargin=\dimen145
-\Fld@menulength=\count194
+\Fld@menulength=\count195
 \Field@Width=\dimen146
 \Fld@charsize=\dimen147
 Package hyperref Info: Hyper figures OFF on input line 6369.
@@ -739,19 +744,16 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count195
-\c@Item=\count196
-\c@Hfootnote=\count197
+\Hy@abspage=\count196
+\c@Item=\count197
+\c@Hfootnote=\count198
 )
-Package hyperref Info: Driver (fallback): hdvipdfm.
+Package hyperref Info: Driver (autodetected): hpdftex.
 
-(c:/texlive/2018/texmf-dist/tex/latex/hyperref/hdvipdfm.def
-File: hdvipdfm.def 2018/02/06 v6.86b Hyperref driver for dvipdfm
-\pdfm@box=\box48
-\c@Hy@AnnotLevel=\count198
-\HyField@AnnotCount=\count199
-\Fld@listcount=\count266
-\c@bookmark@seq@number=\count267
+(c:/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count199
+\c@bookmark@seq@number=\count266
 
 (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
@@ -760,6 +762,27 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip63
 )
+(c:/texlive/2018/texmf-dist/tex/latex/xcjk2uni/xCJK2uni.sty
+Package: xCJK2uni 2018/01/28 v0.7 Convert CJK character to Unicode.
+\l__CJKtu_i_min_int=\count267
+\l__CJKtu_i_max_int=\count268
+\l__CJKtu_ii_min_int=\count269
+\l__CJKtu_ii_max_int=\count270
+\l__CJKtu_gap_begin_int=\count271
+\l__CJKtu_gap_end_int=\count272
+\l__CJKtu_plane_int=\count273
+Package hyperref Info: Option `unicode' set `true' on input line 223.
+
+(c:/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/02/06 v6.86b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `CJKbookmarks' set `false' on input line 223.
+
+(c:/texlive/2018/texmf-dist/tex/latex/xcjk2uni/xCJK2uni-UGBK.def
+File: xCJK2uni-UGBK.def 2018/01/28 v0.7 Convert CJK character to Unicode.
+))
 (c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip64
@@ -780,30 +803,30 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count268
+\inf@bad=\count274
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count269
-\leftroot@=\count270
+\uproot@=\count275
+\leftroot@=\count276
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count271
-\DOTSCASE@=\count272
+\classnum@=\count277
+\DOTSCASE@=\count278
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box49
-\strutbox@=\box50
+\Mathstrutbox@=\box48
+\strutbox@=\box49
 \big@size=\dimen150
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count273
-\c@MaxMatrixCols=\count274
+\macc@depth=\count279
+\c@MaxMatrixCols=\count280
 \dotsspace@=\muskip17
-\c@parentequation=\count275
-\dspbrk@lvl=\count276
+\c@parentequation=\count281
+\dspbrk@lvl=\count282
 \tag@help=\toks17
-\row@=\count277
-\column@=\count278
-\maxfields@=\count279
+\row@=\count283
+\column@=\count284
+\maxfields@=\count285
 \andhelp@=\toks18
 \eqnshift@=\dimen151
 \alignsep@=\dimen152
@@ -860,10 +883,10 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen157
 \Gin@req@width=\dimen158
@@ -874,12 +897,12 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 (c:/texlive/2018/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \col@sep=\dimen159
-\ar@mcellbox=\box51
+\ar@mcellbox=\box50
 \extrarowheight=\dimen160
 \NC@list=\toks27
 \extratabsurround=\skip70
 \backup@length=\skip71
-\ar@cellbox=\box52
+\ar@cellbox=\box51
 )
 (c:/texlive/2018/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
@@ -940,7 +963,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip112
 \bibsep=\skip113
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count280
+\c@NAT@ctr=\count286
 )
 (c:/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
@@ -956,7 +979,7 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@parindent=\dimen166
 \caption@hangindent=\dimen167
 )
-\c@ContinuedFloat=\count281
+\c@ContinuedFloat=\count287
 Package caption Info: hyperref package is loaded.
 )
 (c:/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
@@ -971,31 +994,31 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \cmidrulesep=\dimen175
 \cmidrulekern=\dimen176
 \defaultaddspace=\dimen177
-\@cmidla=\count282
-\@cmidlb=\count283
+\@cmidla=\count288
+\@cmidlb=\count289
 \@aboverulesep=\dimen178
 \@belowrulesep=\dimen179
-\@thisruleclass=\count284
-\@lastruleclass=\count285
+\@thisruleclass=\count290
+\@lastruleclass=\count291
 \@thisrulewidth=\dimen180
 )
 (c:/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count286
-\calc@Bcount=\count287
+\calc@Acount=\count292
+\calc@Bcount=\count293
 \calc@Adimen=\dimen181
 \calc@Bdimen=\dimen182
 \calc@Askip=\skip114
 \calc@Bskip=\skip115
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count288
+\calc@Ccount=\count294
 \calc@Cskip=\skip116
 )
 (c:/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
-Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
 \multirow@colwidth=\skip117
-\multirow@cntb=\count289
+\multirow@cntb=\count295
 \multirow@dima=\skip118
 \bigstrutjot=\dimen183
 )
@@ -1005,8 +1028,9 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: dvips.def on input line 225.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -1021,9 +1045,9 @@ Package hyperref Info: Option `plainpages' set `false' on input line 66.
 
 (c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/04/16 v5.8 Page Geometry
-\Gm@cnth=\count290
-\Gm@cntv=\count291
-\c@Gm@tempcnt=\count292
+\Gm@cnth=\count296
+\Gm@cntv=\count297
+\c@Gm@tempcnt=\count298
 \Gm@bindingoffset=\dimen184
 \Gm@wd@mp=\dimen185
 \Gm@odd@mp=\dimen186
@@ -1042,10 +1066,10 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigbottomskip=\skip121
 \subfigcapmargin=\dimen193
 \subfiglabelskip=\skip122
-\c@subfigure=\count293
-\c@lofdepth=\count294
-\c@subtable=\count295
-\c@lotdepth=\count296
+\c@subfigure=\count299
+\c@lofdepth=\count300
+\c@subtable=\count301
+\c@lotdepth=\count302
 
 ****************************************
 * Local config file subfigure.cfg used *
@@ -1083,12 +1107,7 @@ File: extended.chr 2015/04/18 4.8.4
 LaTeX Warning: Unused global option(s):
     [AutoFakeBold=true].
 
-(./¬€Œƒƒ£∞Ê æ¿˝.aux (./Chapters/corrigenda.aux) (./Chapters/thanks.aux)
-(./Chapters/preface.aux) (./Chapters/abstractC.aux) (./Chapters/abstractE.aux)
-(./Chapters/symbol.aux) (./Chapters/chap1.aux) (./Chapters/chap2.aux)
-(./Chapters/chap3.aux) (./Chapters/chap4.aux) (./Chapters/chap5.aux)
-(./Chapters/chap6.aux) (./Chapters/chap7.aux) (./Chapters/appendix.aux)
-(./Chapters/resume.aux) (./Chapters/publications.aux))
+(./¬€Œƒƒ£∞Ê æ¿˝.aux)
 \openout1 = `¬€Œƒƒ£∞Ê æ¿˝.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -1171,14 +1190,15 @@ LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 20.
-
-(c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+ (c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 20.
-\AtBeginShipoutBox=\box53
+\AtBeginShipoutBox=\box52
 Package hyperref Info: Link coloring OFF on input line 20.
 
 (c:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1187,33 +1207,92 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count297
+\c@section@level=\count303
 )
 LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
 LaTeX Info: Redefining \nameref on input line 20.
 
-(./¬€Œƒƒ£∞Ê æ¿˝.out) (./¬€Œƒƒ£∞Ê æ¿˝.out)
+(./¬€Œƒƒ£∞Ê æ¿˝.out)
+Runaway argument?
+{\376\377\0003\000.\0005\000.\0008\000\040\177\051\121\231\06 
+d:/document/zjuthesis/ZJUthesis/rookie_ZJUthesis_v2.3_GBKUTF/gbkver/¬€Œƒƒ£∞Ê æ¿
+˝.tex:20: File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.20 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+(./¬€Œƒƒ£∞Ê æ¿˝.out)
+Runaway argument?
+{\376\377\0003\000.\0005\000.\0008\000\040\177\051\121\231\06 
+d:/document/zjuthesis/ZJUthesis/rookie_ZJUthesis_v2.3_GBKUTF/gbkver/¬€Œƒƒ£∞Ê æ¿
+˝.tex:20: File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.20 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
 \@outlinefile=\write4
 \openout4 = `¬€Œƒƒ£∞Ê æ¿˝.out'.
 
+Package hyperref Info: Option `CJKbookmarks' set `false' on input line 20.
+(c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count304
+\scratchdimen=\dimen194
+\scratchbox=\box53
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count307
+\MPscratchDim=\dimen195
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks31
+) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
- (./ZJUthesis.cfg
+
+(./ZJUthesis.cfg
 File: ZJUthesis.cfg 2006/04/15 v1.0 ZJUthesis configuration file
-\c@algo=\count298
-\c@thm=\count299
-\c@defn=\count300
-\c@conj=\count301
-\c@exmp=\count302
-\c@rem=\count303
-\c@case=\count304
+\c@algo=\count310
+\c@thm=\count311
+\c@defn=\count312
+\c@conj=\count313
+\c@exmp=\count314
+\c@rem=\count315
+\c@case=\count316
 )
 *geometry* driver: auto-detecting
-*geometry* detected driver: dvips
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: dvips
+* driver: pdftex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -1248,7 +1327,7 @@ LaTeX Font Info:    Try loading font information for C19+zhsong on input line 8
 1.
 (c:/texlive/2018/texmf-dist/tex/latex/zhmetrics/c19zhsong.fd
 File: c19zhsong.fd 2009/09/23 4.8.2
-)
+)<<c1941.cmap>><<c1948.cmap>><<c1943.cmap>><<c1926.cmap>>
 Package CJKpunct Info: use punctuation spaces for family 'zhsong' with punctsty
 le (quanjiao) on input line 81.
 LaTeX Font Info:    Try loading font information for U+msa on input line 81.
@@ -1260,12 +1339,19 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 81.
 
 (c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-File: ./CoverPagepic/ZJDX.eps Graphic file (type eps)
-
-<./CoverPagepic/ZJDX.eps>
-File: ./CoverPagepic/QSY.eps Graphic file (type eps)
- <./CoverPagepic/QSY.eps>
+)<<c1939.cmap>><<c1958.cmap>><<c1949.cmap>><<c1950.cmap>><<c1945.cmap>><<c1942.
+cmap>><<c1947.cmap>><<c1960.cmap>>
+<./CoverPagepic/ZJDX.pdf, id=156, 500.87125pt x 187.70125pt>
+File: ./CoverPagepic/ZJDX.pdf Graphic file (type pdf)
+<use ./CoverPagepic/ZJDX.pdf>
+Package pdftex.def Info: ./CoverPagepic/ZJDX.pdf  used on input line 81.
+(pdftex.def)             Requested size: 171.57011pt x 64.29588pt.
+<<c1937.cmap>><<c1955.cmap>>
+<./CoverPagepic/QSY.pdf, id=159, 270.00874pt x 270.00874pt>
+File: ./CoverPagepic/QSY.pdf Graphic file (type pdf)
+<use ./CoverPagepic/QSY.pdf>
+Package pdftex.def Info: ./CoverPagepic/QSY.pdf  used on input line 81.
+(pdftex.def)             Requested size: 64.87228pt x 64.86934pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12.045> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16.06> not available
@@ -1275,46 +1361,84 @@ LaTeX Font Info:    Try loading font information for C19+zhfs on input line 81.
 
 (c:/texlive/2018/texmf-dist/tex/latex/zhmetrics/c19zhfs.fd
 File: c19zhfs.fd 2009/09/23 4.8.2
-)
+)<<c1964.cmap>><<c1957.cmap>><<c1951.cmap>>
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18.06749> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
+<<c1962.cmap>><<c1953.cmap>><<c1954.cmap>><<c1959.cmap>><<c1940.cmap>><<c1956.c
+map>><<c1946.cmap>>
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <15.05624> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
 
+Overfull \hbox (73.85387pt too wide) detected at line 81
+ \OT1/ptm/b/n/15.05624 Research on fast model predictive control algorithms 
+ []
+
+
+Overfull \hbox (50.4111pt too wide) detected at line 81
+ \OT1/ptm/b/n/15.05624 and the Applications based on embedded systems 
+ []
+
+<<c1965.cmap>><<c1961.cmap>><<c1938.cmap>>
+Overfull \hbox (10.78735pt too wide) detected at line 81
+ \C19/zhfs/m/n/14.05249/47 Ø \C19/zhfs/m/n/14.05249/56 Ñ \C19/zhfs/m/n/14.05249
+/51 ^^\ \C19/zhfs/m/n/14.05249/60 . \C19/zhfs/m/n/14.05249/62 ˝ \C19/zhfs/m/n/1
+4.05249/37 ˇ \C19/zhfs/m/n/14.05249/47 õ \C19/zhfs/m/n/14.05249/64 õ \C19/zhfs/
+m/n/14.05249/56 é \C19/zhfs/m/n/14.05249/41 { \C19/zhfs/m/n/14.05249/60 Ô \C19/
+zhfs/m/n/14.05249/46 ƒ \C19/zhfs/m/n/14.05249/45 9 \C19/zhfs/m/n/14.05249/62 A 
+^ 
+ []
+
+<<c1963.cmap>><<c1952.cmap>>
 (c:/texlive/2018/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
 File: zhwindowsfonts.tex 2018/05/01 v2.4.14 Windows font map loader for pdfTeX 
 and DVIPDFMx (CTEX)
 ) [1
 
 
-]
-File: ./CoverPagepic/QSY.eps Graphic file (type eps)
-
-<./CoverPagepic/QSY.eps>
-File: ./Signature/sign_ch.eps Graphic file (type eps)
- <./Signature/sign_ch.eps>
-File: ./Signature/sign_ch_s.eps Graphic file (type eps)
- <./Signature/sign_ch_s.eps>
+ <./CoverPagepic/ZJDX.pdf> <./CoverPagepic/QSY.pdf>] [2]
+File: ./CoverPagepic/QSY.pdf Graphic file (type pdf)
+<use ./CoverPagepic/QSY.pdf>
+Package pdftex.def Info: ./CoverPagepic/QSY.pdf  used on input line 105.
+(pdftex.def)             Requested size: 64.87228pt x 64.86934pt.
+<./Signature/sign_ch.pdf, id=250, 147.55125pt x 72.27pt>
+File: ./Signature/sign_ch.pdf Graphic file (type pdf)
+<use ./Signature/sign_ch.pdf>
+Package pdftex.def Info: ./Signature/sign_ch.pdf  used on input line 105.
+(pdftex.def)             Requested size: 100.00255pt x 44.9999pt.
+<<c1925.cmap>>
+<./Signature/sign_ch_s.pdf, id=252, 147.55125pt x 72.27pt>
+File: ./Signature/sign_ch_s.pdf Graphic file (type pdf)
+<use ./Signature/sign_ch_s.pdf>
+Package pdftex.def Info: ./Signature/sign_ch_s.pdf  used on input line 105.
+(pdftex.def)             Requested size: 100.00255pt x 44.9999pt.
 Package CJKpunct Info: use punctuation spaces for family 'zhfs' with punctstyle
  (quanjiao) on input line 105.
+<<c1944.cmap>><<c1972.cmap>><<c1982.cmap>><<c1936.cmap>><<c1986.cmap>> [3
 
-[2
+ <./Signature/sign_ch.pdf> <./Signature/sign_ch_s.pdf>]
+File: ./CoverPagepic/QSY.pdf Graphic file (type pdf)
+<use ./CoverPagepic/QSY.pdf>
+Package pdftex.def Info: ./CoverPagepic/QSY.pdf  used on input line 132.
+(pdftex.def)             Requested size: 64.87228pt x 64.86934pt.
+<./Signature/sign_en.pdf, id=276, 147.55125pt x 72.27pt>
+File: ./Signature/sign_en.pdf Graphic file (type pdf)
+<use ./Signature/sign_en.pdf>
+Package pdftex.def Info: ./Signature/sign_en.pdf  used on input line 132.
+(pdftex.def)             Requested size: 100.00255pt x 44.9999pt.
+<./Signature/sign_en_s.pdf, id=277, 147.55125pt x 72.27pt>
+File: ./Signature/sign_en_s.pdf Graphic file (type pdf)
+<use ./Signature/sign_en_s.pdf>
+Package pdftex.def Info: ./Signature/sign_en_s.pdf  used on input line 132.
+(pdftex.def)             Requested size: 100.00255pt x 44.9999pt.
 
-]
-File: ./CoverPagepic/QSY.eps Graphic file (type eps)
- <./CoverPagepic/QSY.eps>
-File: ./Signature/sign_en.eps Graphic file (type eps)
- <./Signature/sign_en.eps>
-File: ./Signature/sign_en_s.eps Graphic file (type eps)
-
-<./Signature/sign_en_s.eps>
 Underfull \hbox (badness 10000) in paragraph at lines 132--132
 
  []
 
-[3
+[4
 
-] (./Chapters/Copyright.tex
+ <./Signature/sign_en.pdf> <./Signature/sign_en_s.pdf>] [5]
+(./Chapters/Copyright.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.05249> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
 LaTeX Font Info:    Try loading font information for C19+zhkai on input line 16
@@ -1323,28 +1447,40 @@ LaTeX Font Info:    Try loading font information for C19+zhkai on input line 16
 (c:/texlive/2018/texmf-dist/tex/latex/zhmetrics/c19zhkai.fd
 File: c19zhkai.fd 2009/09/23 4.8.2
 )
-File: ./Signature/sign_cr_1.eps Graphic file (type eps)
+<./Signature/sign_cr_1.pdf, id=293, 147.55125pt x 72.27pt>
+File: ./Signature/sign_cr_1.pdf Graphic file (type pdf)
+<use ./Signature/sign_cr_1.pdf>
+Package pdftex.def Info: ./Signature/sign_cr_1.pdf  used on input line 25.
+(pdftex.def)             Requested size: 72.27147pt x 36.1349pt.
 
-<./Signature/sign_cr_1.eps>
-Underfull \hbox (badness 10000) detected at line 27
+Underfull \hbox (badness 10000) detected at line 25
 []
  []
 
-File: ./Signature/sign_cr_2.eps Graphic file (type eps)
-<./Signature/sign_cr_2.eps>
-Underfull \hbox (badness 10000) detected at line 50
+<./Signature/sign_cr_2.pdf, id=294, 147.55125pt x 72.27pt>
+File: ./Signature/sign_cr_2.pdf Graphic file (type pdf)
+<use ./Signature/sign_cr_2.pdf>
+Package pdftex.def Info: ./Signature/sign_cr_2.pdf  used on input line 48.
+(pdftex.def)             Requested size: 72.27147pt x 36.1349pt.
+
+Underfull \hbox (badness 10000) detected at line 48
 []
  []
 
-File: ./Signature/sign_cr_s.eps Graphic file (type eps)
-<./Signature/sign_cr_s.eps>
-Underfull \hbox (badness 10000) detected at line 56
+<./Signature/sign_cr_s.pdf, id=295, 147.55125pt x 72.27pt>
+File: ./Signature/sign_cr_s.pdf Graphic file (type pdf)
+<use ./Signature/sign_cr_s.pdf>
+Package pdftex.def Info: ./Signature/sign_cr_s.pdf  used on input line 54.
+(pdftex.def)             Requested size: 72.27147pt x 36.1349pt.
+
+Underfull \hbox (badness 10000) detected at line 54
 []
  []
 
-) [4
+) [6
 
-]
+ <./Signature/sign_cr_1.pdf> <./Signature/sign_cr_2.pdf> <./Signature/sign_cr_s
+.pdf>]
 \openout2 = `./Chapters/corrigenda.aux'.
 
  (./Chapters/corrigenda.tex) [1
@@ -1383,6 +1519,19 @@ C19/zhfs/m/n/12.045/42 á \C19/zhfs/m/n/12.045/51 ^^\ \C19/zhfs/m/n/12.045/36 á
 
 
 
+
+Non-PDF special ignored!
+<special> x:gsave
+Non-PDF special ignored!
+<special> x:scale -1 1
+Non-PDF special ignored!
+<special> x:grestore
+Non-PDF special ignored!
+<special> x:gsave
+Non-PDF special ignored!
+<special> x:scale -1 1
+Non-PDF special ignored!
+<special> x:grestore
 ]
 Overfull \hbox (1.55861pt too wide) in paragraph at lines 45--57
 \C19/zhfs/m/n/12.045/61 ò \C19/zhfs/m/n/12.045/60 
@@ -1445,17 +1594,22 @@ e (quanjiao) on input line 6.
 
 
 
-] (./¬€Œƒƒ£∞Ê æ¿˝.lof)
+]
+
+Package hyperref Warning: old lof file detected, not used; run LaTeX again.
+
 \tf@lof=\write5
 \openout5 = `¬€Œƒƒ£∞Ê æ¿˝.lof'.
 
- [8
+[8
 
 
-] (./¬€Œƒƒ£∞Ê æ¿˝.lot)
+]
+
+Package hyperref Warning: old lot file detected, not used; run LaTeX again.
+
 \tf@lot=\write6
 \openout6 = `¬€Œƒƒ£∞Ê æ¿˝.lot'.
-
 
 [9
 
@@ -1465,20 +1619,22 @@ e (quanjiao) on input line 6.
  (./Chapters/symbol.tex) [10
 
 
-] (./¬€Œƒƒ£∞Ê æ¿˝.toc [11
+]
 
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
 
-] [12] [13])
 \tf@toc=\write7
 \openout7 = `¬€Œƒƒ£∞Ê æ¿˝.toc'.
 
- [14]
+[11
+
+
+]
 \openout2 = `./Chapters/chap1.aux'.
 
-
-(./Chapters/chap1.tex
+ (./Chapters/chap1.tex
 1
-[1
+<<c1989.cmap>> [1
 
 
 
@@ -1522,12 +1678,25 @@ C19/zhfs/m/n/12.045/44 Ω \C19/zhfs/m/n/12.045/63 ˆ \C19/zhfs/m/n/12.045/52 Ÿ \C
 [2]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
- [3]
+
+
+Package natbib Warning: Citation `LaTeXshzh' on page 3 undefined on input line 
+95.
+
+
+Package natbib Warning: Citation `LaTeXshzh' on page 3 undefined on input line 
+100.
+
+
+Package natbib Warning: Citation `texbook' on page 3 undefined on input line 10
+7.
+
+[3]
 Overfull \hbox (21.73238pt too wide) in paragraph at lines 124--126
-[][]\C19/zhfs/bx/n/12.045/37 ^^] \C19/zhfs/bx/n/12.045/51 ^^\ \C19/zhfs/bx/n/12
-.045/36 á \C19/zhfs/bx/n/12.045/45 Ú \C19/zhfs/m/n/12.045/57 „ \C19/zhfs/bx/n/1
-2.045/37 L \C19/zhfs/bx/n/12.045/51 8 \C19/zhfs/m/n/12.045/49 π \C19/zhfs/m/n/1
-2.045/41 © \C19/zhfs/bx/n/12.045/38 § \C19/zhfs/m/n/12.045/49 
+[]\C19/zhfs/bx/n/12.045/37 ^^] \C19/zhfs/bx/n/12.045/51 ^^\ \C19/zhfs/bx/n/12.0
+45/36 á \C19/zhfs/bx/n/12.045/45 Ú \C19/zhfs/m/n/12.045/57 „ \C19/zhfs/bx/n/12.
+045/37 L \C19/zhfs/bx/n/12.045/51 8 \C19/zhfs/m/n/12.045/49 π \C19/zhfs/m/n/12.
+045/41 © \C19/zhfs/bx/n/12.045/38 § \C19/zhfs/m/n/12.045/49 
  \C19/zhfs/m/n/12.045/57 „ \C19/zhfs/m/n/12.045/52 ° \C19/zhfs/bx/n/12.045/51 8
  \C19/zhfs/m/n/12.045/49 π \C19/zhfs/m/n/12.045/62 Ü \C19/zhfs/bx/n/12.045/37 L
  \C19/zhfs/m/n/12.045/42 Ç \C19/zhfs/bx/n/12.045/51 8 \C19/zhfs/m/n/12.045/49 π
@@ -1551,20 +1720,27 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 
 
 
+
+Non-PDF special ignored!
+<special> x:gsave
+Non-PDF special ignored!
+<special> x:scale -1 1
+Non-PDF special ignored!
+<special> x:grestore
 ]
 Overfull \hbox (28.04578pt too wide) in paragraph at lines 40--44
-[][]\OT1/ptm/m/n/12.045 32\C19/zhfs/bx/n/12.045/58 † \C19/zhfs/bx/n/12.045/59 X
- \C19/zhfs/bx/n/12.045/57 ⁄ \C19/zhfs/bx/n/12.045/59 e \C19/zhfs/bx/n/12.045/36
- S \C19/zhfs/bx/n/12.045/65 C \C19/zhfs/bx/n/12.045/37 ' \C19/zhfs/bx/n/12.045/
-46 ^^V \C19/zhfs/bx/n/12.045/45 { \C19/zhfs/bx/n/12.045/39 ¸|\C19/zhfs/m/n/12.0
-45/26 ß| \C19/zhfs/m/n/12.045/64 Ü \C19/zhfs/bx/n/12.045/46 ^^Z \C19/zhfs/bx/n/
-12.045/39 l\OT1/ptm/m/n/12.045 www.ctex.org\C19/zhfs/bx/n/12.045/59 e \C19/zhfs
-/bx/n/12.045/63 1 \C19/zhfs/bx/n/12.045/65 Å \C19/zhfs/m/n/12.045/60 # \C19/zhf
-s/m/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/36 S \C19/zhfs/bx/n/12.045/65 C \C19/
-zhfs/bx/n/12.045/36 ù|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/m/n/12.045/40 ^^H \C
-19/zhfs/m/n/12.045/53 c \C19/zhfs/bx/n/12.045/65 Å \C19/zhfs/m/n/12.045/60 # \C
-19/zhfs/bx/n/12.045/36 á \C19/zhfs/bx/n/12.045/58 è\OT1/ptm/m/n/12.045 2.9.0.15
-2|\C19/zhfs/m/n/12.045/26 ß|
+[]\OT1/ptm/m/n/12.045 32\C19/zhfs/bx/n/12.045/58 † \C19/zhfs/bx/n/12.045/59 X \
+C19/zhfs/bx/n/12.045/57 ⁄ \C19/zhfs/bx/n/12.045/59 e \C19/zhfs/bx/n/12.045/36 S
+ \C19/zhfs/bx/n/12.045/65 C \C19/zhfs/bx/n/12.045/37 ' \C19/zhfs/bx/n/12.045/46
+ ^^V \C19/zhfs/bx/n/12.045/45 { \C19/zhfs/bx/n/12.045/39 ¸|\C19/zhfs/m/n/12.045
+/26 ß| \C19/zhfs/m/n/12.045/64 Ü \C19/zhfs/bx/n/12.045/46 ^^Z \C19/zhfs/bx/n/12
+.045/39 l\OT1/ptm/m/n/12.045 www.ctex.org\C19/zhfs/bx/n/12.045/59 e \C19/zhfs/b
+x/n/12.045/63 1 \C19/zhfs/bx/n/12.045/65 Å \C19/zhfs/m/n/12.045/60 # \C19/zhfs/
+m/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/36 S \C19/zhfs/bx/n/12.045/65 C \C19/zh
+fs/bx/n/12.045/36 ù|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/m/n/12.045/40 ^^H \C19
+/zhfs/m/n/12.045/53 c \C19/zhfs/bx/n/12.045/65 Å \C19/zhfs/m/n/12.045/60 # \C19
+/zhfs/bx/n/12.045/36 á \C19/zhfs/bx/n/12.045/58 è\OT1/ptm/m/n/12.045 2.9.0.152|
+\C19/zhfs/m/n/12.045/26 ß|
  []
 
 
@@ -1581,22 +1757,74 @@ Overfull \hbox (7.20573pt too wide) in paragraph at lines 40--44
 45/40 ^^_|\C19/zhfs/m/n/12.045/25 "|
  []
 
-File: ./Pictures/set1.eps Graphic file (type eps)
-<./Pictures/set1.eps>
+
+LaTeX Warning: Reference `set1' on page 6 undefined on input line 46.
+
+
+LaTeX Warning: Reference `set2' on page 6 undefined on input line 46.
+
+
+LaTeX Warning: Reference `set3' on page 6 undefined on input line 46.
+
+Package epstopdf Info: Source file: <./Pictures/set1.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 52904 bytes
+(epstopdf)             Output file: <./Pictures/set1-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:39:25
+(epstopdf)                    size: 11652 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/set1-eps-conver
+ted-to.pdf ./Pictures/set1.eps>
+(epstopdf)             \includegraphics on input line 50.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/set1-eps-converted-to.pdf, id=404, 251.94125pt x 214.8025pt>
+File: ./Pictures/set1-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/set1-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/set1-eps-converted-to.pdf  used on input li
+ne 50.
+(pdftex.def)             Requested size: 125.9703pt x 107.40099pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.53937> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 51.
-File: ./Pictures/set2.eps Graphic file (type eps)
- <./Pictures/set2.eps>
-File: ./Pictures/set3.eps Graphic file (type eps)
- <./Pictures/set3.eps>
+Package epstopdf Info: Source file: <./Pictures/set2.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 135061 bytes
+(epstopdf)             Output file: <./Pictures/set2-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:39:29
+(epstopdf)                    size: 66192 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/set2-eps-conver
+ted-to.pdf ./Pictures/set2.eps>
+(epstopdf)             \includegraphics on input line 57.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/set2-eps-converted-to.pdf, id=405, 517.935pt x 377.41pt>
+File: ./Pictures/set2-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/set2-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/set2-eps-converted-to.pdf  used on input li
+ne 57.
+(pdftex.def)             Requested size: 258.96686pt x 188.70453pt.
+Package epstopdf Info: Source file: <./Pictures/set3.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 133039 bytes
+(epstopdf)             Output file: <./Pictures/set3-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:39:31
+(epstopdf)                    size: 28841 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/set3-eps-conver
+ted-to.pdf ./Pictures/set3.eps>
+(epstopdf)             \includegraphics on input line 64.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/set3-eps-converted-to.pdf, id=406, 512.91624pt x 374.39874pt>
+File: ./Pictures/set3-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/set3-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/set3-eps-converted-to.pdf  used on input li
+ne 64.
+(pdftex.def)             Requested size: 256.45749pt x 187.19891pt.
+
 Overfull \hbox (16.14488pt too wide) in paragraph at lines 69--70
-[][]\C19/zhfs/m/n/12.045/64 É \C19/zhfs/m/n/12.045/56 § \C19/zhfs/bx/n/12.045/6
-1 ± á \C19/zhfs/bx/n/12.045/36 r \C19/zhfs/bx/n/12.045/54 ^ \C19/zhfs/bx/n/12.0
-45/45 á \C19/zhfs/m/n/12.045/55 , \C19/zhfs/bx/n/12.045/45 ? \C19/zhfs/m/n/12.0
-45/40 ^^T \C19/zhfs/bx/n/12.045/65 Å \C19/zhfs/m/n/12.045/60 # \C19/zhfs/m/n/12
-.045/55 ¥ \C19/zhfs/bx/n/12.045/61 œ \C19/zhfs/bx/n/12.045/58 è \C19/zhfs/m/n/1
-2.045/42 T \C19/zhfs/bx/n/12.045/51 ^^\ \C19/zhfs/bx/n/12.045/36 á \C19/zhfs/m/
-n/12.045/55 ¶ \C19/zhfs/m/n/12.045/62 ^ \C19/zhfs/m/n/12.045/49 
+[]\C19/zhfs/m/n/12.045/64 É \C19/zhfs/m/n/12.045/56 § \C19/zhfs/bx/n/12.045/61 
+± á \C19/zhfs/bx/n/12.045/36 r \C19/zhfs/bx/n/12.045/54 ^ \C19/zhfs/bx/n/12.045
+/45 á \C19/zhfs/m/n/12.045/55 , \C19/zhfs/bx/n/12.045/45 ? \C19/zhfs/m/n/12.045
+/40 ^^T \C19/zhfs/bx/n/12.045/65 Å \C19/zhfs/m/n/12.045/60 # \C19/zhfs/m/n/12.0
+45/55 ¥ \C19/zhfs/bx/n/12.045/61 œ \C19/zhfs/bx/n/12.045/58 è \C19/zhfs/m/n/12.
+045/42 T \C19/zhfs/bx/n/12.045/51 ^^\ \C19/zhfs/bx/n/12.045/36 á \C19/zhfs/m/n/
+12.045/55 ¶ \C19/zhfs/m/n/12.045/62 ^ \C19/zhfs/m/n/12.045/49 
  \C19/zhfs/bx/n/12.045/65 Å \C19/zhfs/m/n/12.045/60 # \C19/zhfs/m/n/12.045/40 ^
 ^[\OT1/ptm/m/n/12.045 hyperref\C19/zhfs/bx/n/12.045/36 ù \C19/zhfs/m/n/12.045/6
 4 • \C19/zhfs/bx/n/12.045/57 V \C19/zhfs/bx/n/12.045/45 \ \C19/zhfs/m/n/12.045/
@@ -1609,8 +1837,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
-[6]
-Overfull \hbox (22.27612pt too wide) in paragraph at lines 80--82
+[6 <./Pictures/set1-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `Roots' on page 7 undefined on input line 81.
+
+
+Overfull \hbox (18.26518pt too wide) in paragraph at lines 80--82
 \C19/zhfs/bx/n/12.045/61 ± \C19/zhfs/m/n/12.045/64 Ü \C19/zhfs/bx/n/12.045/46 ^
 ^Z \C19/zhfs/bx/n/12.045/57 œ \C19/zhfs/bx/n/12.045/43 L \C19/zhfs/m/n/12.045/4
 1 u \C19/zhfs/m/n/12.045/60 1 \C19/zhfs/bx/n/12.045/36 á \C19/zhfs/bx/n/12.045/
@@ -1619,20 +1851,35 @@ Overfull \hbox (22.27612pt too wide) in paragraph at lines 80--82
 045/59 X \C19/zhfs/bx/n/12.045/57 ⁄ \C19/zhfs/bx/n/12.045/59 e \C19/zhfs/bx/n/1
 2.045/63 1 \C19/zhfs/bx/n/12.045/36 S \C19/zhfs/bx/n/12.045/65 C \C19/zhfs/m/n/
 12.045/42 T ı \C19/zhfs/bx/n/12.045/51 U \C19/zhfs/bx/n/12.045/36 ù|\C19/zhfs/m
-/n/12.045/25 "| \C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/57 „[]\OT1/ptm
-/m/n/12.045 2-4[]\C19/zhfs/m/n/12.045/56 § \C19/zhfs/m/n/12.045/55 ´|\C19/zhfs/
-m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 3 \C19/zhfs/m/n/12.045/55 ^^W \C19/zh
-fs/m/n/12.045/64 ò \C19/zhfs/bx/n/12.045/46 . \C19/zhfs/m/n/12.045/50 ° \C19/zh
-fs/m/n/12.045/64 • \C19/zhfs/m/n/12.045/40 ^^[\OT1/ptm/m/n/12.045 Root\C19/zhfs
-/m/n/12.045/55 ^^W
+/n/12.045/25 "| \C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/57 „[]\C19/zhf
+s/m/n/12.045/56 § \C19/zhfs/m/n/12.045/55 ´|\C19/zhfs/m/n/12.045/26 ß| \C19/zhf
+s/bx/n/12.045/63 3 \C19/zhfs/m/n/12.045/55 ^^W \C19/zhfs/m/n/12.045/64 ò \C19/z
+hfs/bx/n/12.045/46 . \C19/zhfs/m/n/12.045/50 ° \C19/zhfs/m/n/12.045/64 • \C19/z
+hfs/m/n/12.045/40 ^^[\OT1/ptm/m/n/12.045 Root\C19/zhfs/m/n/12.045/55 ^^W
  []
 
-File: ./Pictures/Roots.eps Graphic file (type eps)
-<./Pictures/Roots.eps> [7]
+Package epstopdf Info: Source file: <./Pictures/Roots.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 165115 bytes
+(epstopdf)             Output file: <./Pictures/Roots-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:39:36
+(epstopdf)                    size: 64318 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/Roots-eps-conve
+rted-to.pdf ./Pictures/Roots.eps>
+(epstopdf)             \includegraphics on input line 85.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/Roots-eps-converted-to.pdf, id=418, 406.51875pt x 421.575pt>
+File: ./Pictures/Roots-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/Roots-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/Roots-eps-converted-to.pdf  used on input l
+ine 85.
+(pdftex.def)             Requested size: 203.25887pt x 210.78697pt.
+[7 <./Pictures/set2-eps-converted-to.pdf> <./Pictures/set3-eps-converted-to.pdf
+>]
 Overfull \hbox (49.19371pt too wide) in paragraph at lines 120--125
-[][]\C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/43 J \C19/zhfs/bx/n/12.045
-/61 Æ \C19/zhfs/bx/n/12.045/46 ≤ \C19/zhfs/bx/n/12.045/36 S \C19/zhfs/bx/n/12.0
-45/65 C \C19/zhfs/bx/n/12.045/43 – \C19/zhfs/m/n/12.045/49 
+[]\C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/43 J \C19/zhfs/bx/n/12.045/6
+1 Æ \C19/zhfs/bx/n/12.045/46 ≤ \C19/zhfs/bx/n/12.045/36 S \C19/zhfs/bx/n/12.045
+/65 C \C19/zhfs/bx/n/12.045/43 – \C19/zhfs/m/n/12.045/49 
 \OT1/ptm/m/n/12.045 CTeX\C19/zhfs/m/n/12.045/44 Ç \C19/zhfs/bx/n/12.045/46 ∏ \C
 19/zhfs/m/n/12.045/62 Ü\OT1/ptm/m/n/12.045 L[]T[]X\C19/zhfs/bx/n/12.045/54 ^ \C
 19/zhfs/bx/n/12.045/45 á|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/51 @ 
@@ -1644,26 +1891,37 @@ Overfull \hbox (49.19371pt too wide) in paragraph at lines 120--125
 /40 ^^[\OT1/ptm/m/n/12.045 makethesis.bat\C19/zhfs/bx/n/12.045/58 ©
  []
 
-[8]
-File: ./Pictures/runbat.eps Graphic file (type eps)
- <./Pictures/runbat.eps>
+[8
+Non-PDF special ignored!
+<special> x:gsave
+Non-PDF special ignored!
+<special> x:scale -1 1
+Non-PDF special ignored!
+<special> x:grestore
+ <./Pictures/Roots-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `runbat' on page 9 undefined on input line 128.
+
+Package epstopdf Info: Source file: <./Pictures/runbat.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 57183 bytes
+(epstopdf)             Output file: <./Pictures/runbat-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:39:38
+(epstopdf)                    size: 17313 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/runbat-eps-conv
+erted-to.pdf ./Pictures/runbat.eps>
+(epstopdf)             \includegraphics on input line 132.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/runbat-eps-converted-to.pdf, id=457, 684.5575pt x 56.21pt>
+File: ./Pictures/runbat-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/runbat-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/runbat-eps-converted-to.pdf  used on input 
+line 132.
+(pdftex.def)             Requested size: 342.27791pt x 28.10492pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 133.
 
-Overfull \hbox (1.51007pt too wide) in paragraph at lines 137--139
-[][]\C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/43 J \C19/zhfs/bx/n/12.045
-/59 X \C19/zhfs/bx/n/12.045/57 ⁄ \C19/zhfs/m/n/12.045/64 •\OT1/ptm/m/n/12.045 M
-iKTeX\C19/zhfs/m/n/12.045/40 ^^[ \C19/zhfs/m/n/12.045/48 * \C19/zhfs/bx/n/12.04
-5/63 – \C19/zhfs/bx/n/12.045/36 ù \C19/zhfs/bx/n/12.045/58 ô \C19/zhfs/bx/n/12.
-045/36 S \C19/zhfs/bx/n/12.045/65 C \C19/zhfs/bx/n/12.045/58 ^^Q \C19/zhfs/bx/n
-/12.045/54 ^^\|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/m/n/12.045/47 å \C19/zhfs/b
-x/n/12.045/51 U \C19/zhfs/m/n/12.045/44 ¨ \C19/zhfs/m/n/12.045/40 ^^F \C19/zhfs
-/bx/n/12.045/38 — \C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/57 „[]\OT1/p
-tm/m/n/12.045 2-6[]\C19/zhfs/m/n/12.045/56 § \C19/zhfs/m/n/12.045/55 ´ \C19/zhf
-s/bx/n/12.045/39 I \C19/zhfs/m/n/12.045/47 ù|\C19/zhfs/m/n/12.045/25 "| \C19/zh
-fs/m/n/12.045/40 : |\C19/zhfs/m/n/12.045/25 /|\OT1/ptm/m/n/12.045 Change|\C19/z
-hfs/m/n/12.045/25 0|
- []
+LaTeX Warning: Reference `SelRep' on page 9 undefined on input line 137.
 
 
 Overfull \hbox (1.38948pt too wide) in paragraph at lines 137--139
@@ -1680,43 +1938,189 @@ Overfull \hbox (1.38948pt too wide) in paragraph at lines 137--139
 m/n/12.045/26 £|\OT1/ptm/m/n/12.045 Random pack-age repos-
  []
 
-File: ./Pictures/SelRep.eps Graphic file (type eps)
-<./Pictures/SelRep.eps> [9]
-File: ./Pictures/PkgInternet.eps Graphic file (type eps)
- <./Pictures/PkgInternet.eps>
-Overfull \hbox (1.25752pt too wide) in paragraph at lines 158--160
-[][]\C19/zhfs/bx/n/12.045/59 e \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045
-/37 ⁄|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/m/n/12.045/60 ¿ \C19/zhfs/bx/n/12.04
-5/63 J \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/m/n/12.045/42 á \C19/zhfs/bx/n/12.0
-45/63 ^^M|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/65 Å \C19/zhfs/bx/n/
-12.045/43 – \C19/zhfs/m/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/43 I \C19/zhfs/bx/n
-/12.045/51 S \C19/zhfs/m/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/63 ^^M|\C19/zhfs
-/m/n/12.045/26 ß| \C19/zhfs/m/n/12.045/56 Ñ \C19/zhfs/m/n/12.045/40 › \C19/zhfs
-/bx/n/12.045/37 ' \C19/zhfs/bx/n/12.045/46 ^^V \C19/zhfs/m/n/12.045/47 Ø|\C19/z
-hfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/57 „[]\OT
-1/ptm/m/n/12.045 2-8[]\C19/zhfs/m/n/12.045/56 § \C19/zhfs/m/n/12.045/55 ´|\C19/
-zhfs/m/n/12.045/25 "| \C19/zhfs/bx/n/12.045/57 Ì \C19/zhfs/bx/n/12.045/45 ^^? \
-C19/zhfs/m/n/12.045/55 ¶ \C19/zhfs/m/n/12.045/62 ^\OT1/ptm/m/n/12.045 HTTP\C19/
-zhfs/m/n/12.045/60 ^^N
- []
+Package epstopdf Info: Source file: <./Pictures/SelRep.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 153188 bytes
+(epstopdf)             Output file: <./Pictures/SelRep-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:39:43
+(epstopdf)                    size: 52748 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/SelRep-eps-conv
+erted-to.pdf ./Pictures/SelRep.eps>
+(epstopdf)             \includegraphics on input line 142.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/SelRep-eps-converted-to.pdf, id=458, 525.965pt x 357.335pt>
+File: ./Pictures/SelRep-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/SelRep-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/SelRep-eps-converted-to.pdf  used on input 
+line 142.
+(pdftex.def)             Requested size: 262.98184pt x 178.66705pt.
+[9 <./Pictures/runbat-eps-converted-to.pdf> <./Pictures/SelRep-eps-converted-to
+.pdf>]
 
-File: ./Pictures/SelRep_0.eps Graphic file (type eps)
-<./Pictures/SelRep_0.eps> [10]
-File: ./Pictures/PkgSelect.eps Graphic file (type eps)
- <./Pictures/PkgSelect.eps>
-File: ./Pictures/Download.eps Graphic file (type eps)
+LaTeX Warning: Reference `PkgInternet' on page 10 undefined on input line 149.
 
-<./Pictures/Download.eps> [11]
-File: ./Pictures/NoShow.eps Graphic file (type eps)
- <./Pictures/NoShow.eps>
-File: ./Pictures/l3kernel.eps Graphic file (type eps)
+Package epstopdf Info: Source file: <./Pictures/PkgInternet.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 141626 bytes
+(epstopdf)             Output file: <./Pictures/PkgInternet-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2018-09-12 21:39:45
+(epstopdf)                    size: 54268 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/PkgInternet-eps
+-converted-to.pdf ./Pictures/PkgInternet.eps>
+(epstopdf)             \includegraphics on input line 153.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/PkgInternet-eps-converted-to.pdf, id=475, 548.0475pt x 400.49625pt>
 
-<./Pictures/l3kernel.eps> [12]
-File: ./Pictures/dvierror.eps Graphic file (type eps)
- <./Pictures/dvierror.eps>
-File: ./Pictures/complete.eps Graphic file (type eps)
+File: ./Pictures/PkgInternet-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/PkgInternet-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/PkgInternet-eps-converted-to.pdf  used on i
+nput line 153.
+(pdftex.def)             Requested size: 274.02307pt x 200.24763pt.
 
-<./Pictures/complete.eps>) [13]
+LaTeX Warning: Reference `SelRep_0' on page 10 undefined on input line 158.
+
+Package epstopdf Info: Source file: <./Pictures/SelRep_0.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 284541 bytes
+(epstopdf)             Output file: <./Pictures/SelRep_0-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:39:47
+(epstopdf)                    size: 91795 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/SelRep_0-eps-co
+nverted-to.pdf ./Pictures/SelRep_0.eps>
+(epstopdf)             \includegraphics on input line 163.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/SelRep_0-eps-converted-to.pdf, id=476, 550.055pt x 397.485pt>
+File: ./Pictures/SelRep_0-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/SelRep_0-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/SelRep_0-eps-converted-to.pdf  used on inpu
+t line 163.
+(pdftex.def)             Requested size: 275.02682pt x 198.742pt.
+[10 <./Pictures/PkgInternet-eps-converted-to.pdf> <./Pictures/SelRep_0-eps-conv
+erted-to.pdf>]
+
+LaTeX Warning: Reference `PkgSelect' on page 11 undefined on input line 170.
+
+Package epstopdf Info: Source file: <./Pictures/PkgSelect.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 161997 bytes
+(epstopdf)             Output file: <./Pictures/PkgSelect-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2018-09-12 21:39:49
+(epstopdf)                    size: 56752 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/PkgSelect-eps-c
+onverted-to.pdf ./Pictures/PkgSelect.eps>
+(epstopdf)             \includegraphics on input line 174.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/PkgSelect-eps-converted-to.pdf, id=490, 524.96124pt x 356.33125pt>
+File: ./Pictures/PkgSelect-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/PkgSelect-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/PkgSelect-eps-converted-to.pdf  used on inp
+ut line 174.
+(pdftex.def)             Requested size: 262.47998pt x 178.16518pt.
+
+LaTeX Warning: Reference `Download' on page 11 undefined on input line 179.
+
+Package epstopdf Info: Source file: <./Pictures/Download.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 447408 bytes
+(epstopdf)             Output file: <./Pictures/Download-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:39:52
+(epstopdf)                    size: 132006 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/Download-eps-co
+nverted-to.pdf ./Pictures/Download.eps>
+(epstopdf)             \includegraphics on input line 183.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/Download-eps-converted-to.pdf, id=491, 681.54625pt x 441.65pt>
+File: ./Pictures/Download-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/Download-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/Download-eps-converted-to.pdf  used on inpu
+t line 183.
+(pdftex.def)             Requested size: 340.7723pt x 220.82445pt.
+[11 <./Pictures/PkgSelect-eps-converted-to.pdf> <./Pictures/Download-eps-conver
+ted-to.pdf>]
+Package epstopdf Info: Source file: <./Pictures/NoShow.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 159773 bytes
+(epstopdf)             Output file: <./Pictures/NoShow-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:39:54
+(epstopdf)                    size: 52790 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/NoShow-eps-conv
+erted-to.pdf ./Pictures/NoShow.eps>
+(epstopdf)             \includegraphics on input line 194.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/NoShow-eps-converted-to.pdf, id=506, 523.9575pt x 355.3275pt>
+File: ./Pictures/NoShow-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/NoShow-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/NoShow-eps-converted-to.pdf  used on input 
+line 194.
+(pdftex.def)             Requested size: 261.9781pt x 177.6633pt.
+
+
+LaTeX Warning: Reference `l3kernel' on page 12 undefined on input line 199.
+
+Package epstopdf Info: Source file: <./Pictures/l3kernel.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 398297 bytes
+(epstopdf)             Output file: <./Pictures/l3kernel-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:39:57
+(epstopdf)                    size: 118471 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/l3kernel-eps-co
+nverted-to.pdf ./Pictures/l3kernel.eps>
+(epstopdf)             \includegraphics on input line 203.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/l3kernel-eps-converted-to.pdf, id=507, 680.5425pt x 441.65pt>
+File: ./Pictures/l3kernel-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/l3kernel-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/l3kernel-eps-converted-to.pdf  used on inpu
+t line 203.
+(pdftex.def)             Requested size: 340.27042pt x 220.82445pt.
+[12 <./Pictures/NoShow-eps-converted-to.pdf> <./Pictures/l3kernel-eps-converted
+-to.pdf>]
+
+LaTeX Warning: Reference `dvierror' on page 13 undefined on input line 211.
+
+Package epstopdf Info: Source file: <./Pictures/dvierror.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 450847 bytes
+(epstopdf)             Output file: <./Pictures/dvierror-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:40:00
+(epstopdf)                    size: 114174 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/dvierror-eps-co
+nverted-to.pdf ./Pictures/dvierror.eps>
+(epstopdf)             \includegraphics on input line 215.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/dvierror-eps-converted-to.pdf, id=520, 681.54625pt x 446.66875pt>
+File: ./Pictures/dvierror-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/dvierror-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/dvierror-eps-converted-to.pdf  used on inpu
+t line 215.
+(pdftex.def)             Requested size: 340.7723pt x 223.33382pt.
+Package epstopdf Info: Source file: <./Pictures/complete.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 566789 bytes
+(epstopdf)             Output file: <./Pictures/complete-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:40:03
+(epstopdf)                    size: 157641 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/complete-eps-co
+nverted-to.pdf ./Pictures/complete.eps>
+(epstopdf)             \includegraphics on input line 224.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/complete-eps-converted-to.pdf, id=521, 683.55376pt x 442.65375pt>
+File: ./Pictures/complete-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/complete-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/complete-eps-converted-to.pdf  used on inpu
+t line 224.
+(pdftex.def)             Requested size: 341.77605pt x 221.32632pt.
+) [13
+Non-PDF special ignored!
+<special> x:gsave
+Non-PDF special ignored!
+<special> x:scale -1 1
+Non-PDF special ignored!
+<special> x:grestore
+ <./Pictures/dvierror-eps-converted-to.pdf> <./Pictures/complete-eps-converted-
+to.pdf>]
 \openout2 = `./Chapters/chap3.aux'.
 
  (./Chapters/chap3.tex (./Chapters/chap3_1.tex
@@ -1741,7 +2145,14 @@ Overfull \hbox (1.12439pt too wide) in paragraph at lines 50--59
 45/26 ß| $\OMS/cmsy/m/n/12.045 n$\OT1/ptm/b/n/12.045 documentclass
  []
 
-[15]
+[15
+Non-PDF special ignored!
+<special> x:gsave
+Non-PDF special ignored!
+<special> x:scale -1 1
+Non-PDF special ignored!
+<special> x:grestore
+]
 Underfull \hbox (badness 10000) in paragraph at lines 127--127
 \OT1/ptm/m/n/9.03374 http://grs.zju.edu.cn/News/html/grs/xwsqjgf/xwsq/xwsq[]bsz
 n/2008-09-
@@ -1749,30 +2160,30 @@ n/2008-09-
 
 [16]
 Overfull \hbox (4.08276pt too wide) in paragraph at lines 189--190
-[]|[][][]\OT1/pcr/m/n/9.03374 \englishtitle{Thesis Title}| 
+[]|[][]\OT1/pcr/m/n/9.03374 \englishtitle{Thesis Title}| 
  []
 
 
 Overfull \hbox (9.503pt too wide) in paragraph at lines 194--195
-[]|[][][]\OT1/pcr/m/n/9.03374 \englishtitletl{Second Line}| 
+[]|[][]\OT1/pcr/m/n/9.03374 \englishtitletl{Second Line}| 
  []
 
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9.03374> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 223.
 
 Overfull \hbox (6.7449pt too wide) in paragraph at lines 222--224
-[][]\C19/zhfs/m/n/12.045/52 Ÿ \C19/zhfs/bx/n/12.045/64 • \C19/zhfs/m/n/12.045/4
-0 ^^[ $\OMS/cmsy/m/n/12.045 n$\OT1/ptm/m/n/12.045 hsapce\OMS/cmsy/m/n/12.045 f\
-OT1/ptm/b/n/12.045 1.5em\OMS/cmsy/m/n/12.045 g \C19/zhfs/bx/n/12.045/37 L \C19/
-zhfs/m/n/12.045/55 ´ \C19/zhfs/m/n/12.045/47 ò \C19/zhfs/bx/n/12.045/45 m m \C1
-9/zhfs/bx/n/12.045/46 Â \C19/zhfs/bx/n/12.045/58 è \C19/zhfs/bx/n/12.045/61 ò[]
-[] \C19/zhfs/bx/n/12.045/42 á[][] \C19/zhfs/bx/n/12.045/36 å[][] \C19/zhfs/bx/n
-/12.045/65 i[][] \C19/zhfs/bx/n/12.045/41 Œ[][]|\C19/zhfs/m/n/12.045/26 ß| \C19
-/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/43 J \C19/zhfs/bx/n/12.045/61 á ò[
-][] \C19/zhfs/bx/n/12.045/42 á[][] \C19/zhfs/bx/n/12.045/65 i[][] \C19/zhfs/bx/
-n/12.045/41 Œ[][] \C19/zhfs/bx/n/12.045/45 m \C19/zhfs/bx/n/12.045/46 Â|\C19/zh
-fs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 K \C19/zhfs/m/n/12.045/60 ^^U\OT1/
-ptm/b/n/12.045 1em[][][]|\C19/zhfs/m/n/12.045/26 ß|
+[]\C19/zhfs/m/n/12.045/52 Ÿ \C19/zhfs/bx/n/12.045/64 • \C19/zhfs/m/n/12.045/40 
+^^[ $\OMS/cmsy/m/n/12.045 n$\OT1/ptm/m/n/12.045 hsapce\OMS/cmsy/m/n/12.045 f\OT
+1/ptm/b/n/12.045 1.5em\OMS/cmsy/m/n/12.045 g \C19/zhfs/bx/n/12.045/37 L \C19/zh
+fs/m/n/12.045/55 ´ \C19/zhfs/m/n/12.045/47 ò \C19/zhfs/bx/n/12.045/45 m m \C19/
+zhfs/bx/n/12.045/46 Â \C19/zhfs/bx/n/12.045/58 è \C19/zhfs/bx/n/12.045/61 ò[][]
+ \C19/zhfs/bx/n/12.045/42 á[][] \C19/zhfs/bx/n/12.045/36 å[][] \C19/zhfs/bx/n/1
+2.045/65 i[][] \C19/zhfs/bx/n/12.045/41 Œ[][]|\C19/zhfs/m/n/12.045/26 ß| \C19/z
+hfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/43 J \C19/zhfs/bx/n/12.045/61 á ò[][
+] \C19/zhfs/bx/n/12.045/42 á[][] \C19/zhfs/bx/n/12.045/65 i[][] \C19/zhfs/bx/n/
+12.045/41 Œ[][] \C19/zhfs/bx/n/12.045/45 m \C19/zhfs/bx/n/12.045/46 Â|\C19/zhfs
+/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 K \C19/zhfs/m/n/12.045/60 ^^U\OT1/pt
+m/b/n/12.045 1em[][][]|\C19/zhfs/m/n/12.045/26 ß|
  []
 
 [17] [18]
@@ -1783,8 +2194,26 @@ LaTeX Font Warning: Font shape `OMS/ptm/bx/n' undefined
 
 LaTeX Font Info:    Font shape `OMS/ptm/bx/n' in size <12.045> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 352.
-File: ./Pictures/runLaTeX.eps Graphic file (type eps)
-<./Pictures/runLaTeX.eps> [19] [20]
+Package epstopdf Info: Source file: <./Pictures/runLaTeX.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 211545 bytes
+(epstopdf)             Output file: <./Pictures/runLaTeX-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:40:06
+(epstopdf)                    size: 37539 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/runLaTeX-eps-co
+nverted-to.pdf ./Pictures/runLaTeX.eps>
+(epstopdf)             \includegraphics on input line 357.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/runLaTeX-eps-converted-to.pdf, id=578, 284.06125pt x 363.3575pt>
+File: ./Pictures/runLaTeX-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/runLaTeX-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/runLaTeX-eps-converted-to.pdf  used on inpu
+t line 357.
+(pdftex.def)             Requested size: 227.24928pt x 290.68639pt.
+
+LaTeX Warning: Reference `runLaTeX' on page 19 undefined on input line 363.
+
+[19 <./Pictures/runLaTeX-eps-converted-to.pdf>] [20]
 Overfull \hbox (47.44432pt too wide) in paragraph at lines 529--544
 []
  []
@@ -1795,64 +2224,86 @@ Underfull \hbox (badness 10000) in paragraph at lines 529--544
  []
 
 [21] [22] [23]
-Overfull \hbox (12.09453pt too wide) in paragraph at lines 680--682
-[][]\C19/zhfs/bx/n/12.045/43 ' \C19/zhfs/m/n/12.045/62 u \C19/zhfs/bx/n/12.045/
-63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/m/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045
-/49 - \C19/zhfs/bx/n/12.045/42 ç \C19/zhfs/bx/n/12.045/40 ı ^^[ \C19/zhfs/bx/n/
-12.045/42 ı \C19/zhfs/bx/n/12.045/51 U \C19/zhfs/bx/n/12.045/60 ¿ \C19/zhfs/bx/
-n/12.045/59 ë \C19/zhfs/m/n/12.045/56 ` \C19/zhfs/m/n/12.045/50 ≤|\C19/zhfs/m/n
-/12.045/26 ß| \C19/zhfs/m/n/12.045/53 û \C19/zhfs/bx/n/12.045/37 Î \C19/zhfs/m/
-n/12.045/47 ^^? \C19/zhfs/bx/n/12.045/63 ‹ \C19/zhfs/bx/n/12.045/49 ^^U \C19/zh
-fs/bx/n/12.045/37 ≈ \C19/zhfs/bx/n/12.045/40 ^^[ |\C19/zhfs/m/n/12.045/25 5|\C1
-9/zhfs/bx/n/12.045/43 ' \C19/zhfs/m/n/12.045/62 u \C19/zhfs/bx/n/12.045/60 # \C
-19/zhfs/bx/n/12.045/36 á\OT1/ptm/m/n/12.045 CCT\C19/zhfs/bx/n/12.045/40 ^^[ \C1
-9/zhfs/m/n/12.045/56 ` \C19/zhfs/m/n/12.045/50 ≤|\C19/zhfs/m/n/12.045/25 6| $[]
-$\C19/zhfs/bx/n/12.045/40 ^^[\OT1/ptm/m/n/12.045 4.2\C19/zhfs/bx/n/12.045/46 !
+
+Package natbib Warning: Citation `NewCCT:2006' on page 24 undefined on input li
+ne 680.
+
+
+Overfull \hbox (14.57451pt too wide) in paragraph at lines 680--682
+[]\C19/zhfs/bx/n/12.045/43 ' \C19/zhfs/m/n/12.045/62 u \C19/zhfs/bx/n/12.045/63
+ ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/m/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045/4
+9 - \C19/zhfs/bx/n/12.045/42 ç \C19/zhfs/bx/n/12.045/40 ı ^^[ \C19/zhfs/bx/n/12
+.045/42 ı \C19/zhfs/bx/n/12.045/51 U \C19/zhfs/bx/n/12.045/60 ¿ \C19/zhfs/bx/n/
+12.045/59 ë \C19/zhfs/m/n/12.045/56 ` \C19/zhfs/m/n/12.045/50 ≤|\C19/zhfs/m/n/1
+2.045/26 ß| \C19/zhfs/m/n/12.045/53 û \C19/zhfs/bx/n/12.045/37 Î \C19/zhfs/m/n/
+12.045/47 ^^? \C19/zhfs/bx/n/12.045/63 ‹ \C19/zhfs/bx/n/12.045/49 ^^U \C19/zhfs
+/bx/n/12.045/37 ≈ \C19/zhfs/bx/n/12.045/40 ^^[ |\C19/zhfs/m/n/12.045/25 5|\C19/
+zhfs/bx/n/12.045/43 ' \C19/zhfs/m/n/12.045/62 u \C19/zhfs/bx/n/12.045/60 # \C19
+/zhfs/bx/n/12.045/36 á\OT1/ptm/m/n/12.045 CCT\C19/zhfs/bx/n/12.045/40 ^^[ \C19/
+zhfs/m/n/12.045/56 ` \C19/zhfs/m/n/12.045/50 ≤|\C19/zhfs/m/n/12.045/25 6| $[]$\
+C19/zhfs/bx/n/12.045/40 ^^[\OT1/ptm/m/n/12.045 4.2\C19/zhfs/bx/n/12.045/46 !
  []
+
+
+Package natbib Warning: Citation `LaTeXshzh' on page 24 undefined on input line
+ 696.
 
 [24]
 Overfull \hbox (10.53017pt too wide) in paragraph at lines 738--741
-[][]\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/48 p \C19/zhfs/bx/n/12.045
-/40 ^^[$\OMS/cmsy/m/n/12.045 n$\OT1/ptm/m/n/12.045 input\C19/zhfs/m/n/12.045/50
- ∑ \C19/zhfs/bx/n/12.045/49 - \C19/zhfs/bx/n/12.045/64 ç \C19/zhfs/m/n/12.045/5
-5 — \C19/zhfs/bx/n/12.045/54 \ \C19/zhfs/bx/n/12.045/49 , \C19/zhfs/bx/n/12.045
-/61 ò \C19/zhfs/bx/n/12.045/42 á\OT1/ptm/m/n/12.045 tex\C19/zhfs/bx/n/12.045/58
- © \C19/zhfs/bx/n/12.045/45 á \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.04
-5/51 S \C19/zhfs/bx/n/12.045/54 N \C19/zhfs/bx/n/12.045/40 ^^T ^^H \C19/zhfs/m/
-n/12.045/53 c \C19/zhfs/bx/n/12.045/58 † \C19/zhfs/bx/n/12.045/64 ò|\C19/zhfs/m
-/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/46 “ \C19/zhfs/m/n/12.045/55 ¥ \C19/zhfs/
-m/n/12.045/56 `\OT1/ptm/m/n/12.045 L[]T[]X\C19/zhfs/bx/n/12.045/63 3 \C19/zhfs/
-bx/n/12.045/37 ? \C19/zhfs/bx/n/12.045/61 » \C19/zhfs/bx/n/12.045/63 ˘ \C19/zhf
-s/bx/n/12.045/41 ∞\OT1/ptm/m/n/12.045 tex\C19/zhfs/bx/n/12.045/63 ^^M
+[]\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/48 p \C19/zhfs/bx/n/12.045/4
+0 ^^[$\OMS/cmsy/m/n/12.045 n$\OT1/ptm/m/n/12.045 input\C19/zhfs/m/n/12.045/50 ∑
+ \C19/zhfs/bx/n/12.045/49 - \C19/zhfs/bx/n/12.045/64 ç \C19/zhfs/m/n/12.045/55 
+— \C19/zhfs/bx/n/12.045/54 \ \C19/zhfs/bx/n/12.045/49 , \C19/zhfs/bx/n/12.045/6
+1 ò \C19/zhfs/bx/n/12.045/42 á\OT1/ptm/m/n/12.045 tex\C19/zhfs/bx/n/12.045/58 ©
+ \C19/zhfs/bx/n/12.045/45 á \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/
+51 S \C19/zhfs/bx/n/12.045/54 N \C19/zhfs/bx/n/12.045/40 ^^T ^^H \C19/zhfs/m/n/
+12.045/53 c \C19/zhfs/bx/n/12.045/58 † \C19/zhfs/bx/n/12.045/64 ò|\C19/zhfs/m/n
+/12.045/26 ß| \C19/zhfs/bx/n/12.045/46 “ \C19/zhfs/m/n/12.045/55 ¥ \C19/zhfs/m/
+n/12.045/56 `\OT1/ptm/m/n/12.045 L[]T[]X\C19/zhfs/bx/n/12.045/63 3 \C19/zhfs/bx
+/n/12.045/37 ? \C19/zhfs/bx/n/12.045/61 » \C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/
+bx/n/12.045/41 ∞\OT1/ptm/m/n/12.045 tex\C19/zhfs/bx/n/12.045/63 ^^M
  []
 
-[25] [26] [27] [28] [29] [30]) (./Chapters/chap3_2.tex [31]
+[25] [26] [27]
+
+LaTeX Warning: Reference `ChapsecList' on page 28 undefined on input line 882.
+
+[28] [29] [30]) (./Chapters/chap3_2.tex
+
+Package natbib Warning: Citation `epslatex' on page 31 undefined on input line 
+13.
+
+
+Package natbib Warning: Citation `epslatex' on page 31 undefined on input line 
+14.
+
+[31]
 Overfull \hbox (15.03358pt too wide) in paragraph at lines 34--36
-[][]\C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/43 J \C19/zhfs/bx/n/12.045
-/55 ¥ \C19/zhfs/bx/n/12.045/62 ^\OT1/ptm/m/n/12.045 pdfTeX[]\C19/zhfs/bx/n/12.0
-45/64 Ü \C19/zhfs/bx/n/12.045/46 ^^Z \C19/zhfs/bx/n/12.045/45 Ú\OT1/ptm/m/n/12.
-045 tex\C19/zhfs/bx/n/12.045/65 = \C19/zhfs/bx/n/12.045/44 Ü \C19/zhfs/bx/n/12.
-045/58 è\OT1/ptm/m/n/12.045 pdf\C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.0
-45/49 6 \C19/zhfs/bx/n/12.045/38 ß|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12
-.045/63 K \C19/zhfs/bx/n/12.045/37 ÿ \C19/zhfs/bx/n/12.045/51 U \C19/zhfs/bx/n/
-12.045/37 Ê \C19/zhfs/bx/n/12.045/62 ^\OT1/ptm/m/n/12.045 eps\C19/zhfs/bx/n/12.
-045/42 Ç \C19/zhfs/bx/n/12.045/55 ™|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/1
-2.045/40 ^^B \C19/zhfs/bx/n/12.045/47 å \C19/zhfs/bx/n/12.045/61 ± \C19/zhfs/bx
-/n/12.045/37 Ê \C19/zhfs/bx/n/12.045/62 ^\OT1/ptm/m/n/12.045 jpg|\C19/zhfs/m/n/
-12.045/26 ß| \OT1/ptm/m/n/12.045 jpeg|\C19/zhfs/m/n/12.045/26 ß|
+[]\C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/43 J \C19/zhfs/bx/n/12.045/5
+5 ¥ \C19/zhfs/bx/n/12.045/62 ^\OT1/ptm/m/n/12.045 pdfTeX[]\C19/zhfs/bx/n/12.045
+/64 Ü \C19/zhfs/bx/n/12.045/46 ^^Z \C19/zhfs/bx/n/12.045/45 Ú\OT1/ptm/m/n/12.04
+5 tex\C19/zhfs/bx/n/12.045/65 = \C19/zhfs/bx/n/12.045/44 Ü \C19/zhfs/bx/n/12.04
+5/58 è\OT1/ptm/m/n/12.045 pdf\C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045
+/49 6 \C19/zhfs/bx/n/12.045/38 ß|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.0
+45/63 K \C19/zhfs/bx/n/12.045/37 ÿ \C19/zhfs/bx/n/12.045/51 U \C19/zhfs/bx/n/12
+.045/37 Ê \C19/zhfs/bx/n/12.045/62 ^\OT1/ptm/m/n/12.045 eps\C19/zhfs/bx/n/12.04
+5/42 Ç \C19/zhfs/bx/n/12.045/55 ™|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.
+045/40 ^^B \C19/zhfs/bx/n/12.045/47 å \C19/zhfs/bx/n/12.045/61 ± \C19/zhfs/bx/n
+/12.045/37 Ê \C19/zhfs/bx/n/12.045/62 ^\OT1/ptm/m/n/12.045 jpg|\C19/zhfs/m/n/12
+.045/26 ß| \OT1/ptm/m/n/12.045 jpeg|\C19/zhfs/m/n/12.045/26 ß|
  []
 
 
 Overfull \hbox (11.8421pt too wide) in paragraph at lines 39--41
-[][]\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/61 è \C19/zhfs/bx/n/12.045
-/55 ¥ \C19/zhfs/bx/n/12.045/58 è \C19/zhfs/bx/n/12.045/55 ü \C19/zhfs/m/n/12.04
-5/50 o \C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.
-045/51 ^^\ \C19/zhfs/bx/n/12.045/36 á \C19/zhfs/bx/n/12.045/39 ë \C19/zhfs/bx/n
-/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/45 á \C19/zhfs/
-bx/n/12.045/64 • \C19/zhfs/bx/n/12.045/45 Q \C19/zhfs/bx/n/12.045/62 k\OT1/ptm/
-m/n/12.045 eps\C19/zhfs/bx/n/12.045/62 q k\OT1/ptm/m/n/12.045 pdf\C19/zhfs/bx/n
-/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/63 ^^F \C19/zhfs/bx/n/12.045/61 œ|\C19/zhf
-s/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/58 è \C19/zhfs/bx/n/12.045/49 
+[]\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/61 è \C19/zhfs/bx/n/12.045/5
+5 ¥ \C19/zhfs/bx/n/12.045/58 è \C19/zhfs/bx/n/12.045/55 ü \C19/zhfs/m/n/12.045/
+50 o \C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.04
+5/51 ^^\ \C19/zhfs/bx/n/12.045/36 á \C19/zhfs/bx/n/12.045/39 ë \C19/zhfs/bx/n/1
+2.045/40 ^^[ \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/45 á \C19/zhfs/bx
+/n/12.045/64 • \C19/zhfs/bx/n/12.045/45 Q \C19/zhfs/bx/n/12.045/62 k\OT1/ptm/m/
+n/12.045 eps\C19/zhfs/bx/n/12.045/62 q k\OT1/ptm/m/n/12.045 pdf\C19/zhfs/bx/n/1
+2.045/40 ^^[ \C19/zhfs/bx/n/12.045/63 ^^F \C19/zhfs/bx/n/12.045/61 œ|\C19/zhfs/
+m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/58 è \C19/zhfs/bx/n/12.045/49 
  \C19/zhfs/bx/n/12.045/63 Ï \C19/zhfs/bx/n/12.045/43 ^^Z \C19/zhfs/bx/n/12.045/
 40 ^^T \C19/zhfs/bx/n/12.045/37 ‹ \C19/zhfs/bx/n/12.045/41 © \C19/zhfs/bx/n/12.
 045/64 Ü \C19/zhfs/bx/n/12.045/46 ^^Z \C19/zhfs/bx/n/12.045/45 Ú\OT1/ptm/m/n/12
@@ -1860,9 +2311,13 @@ s/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/58 è \C19/zhfs/bx/n/12.045/49
  []
 
 [32]
+
+LaTeX Warning: Reference `FigTextWidth' on page 33 undefined on input line 80.
+
+
 Overfull \hbox (0.86021pt too wide) in paragraph at lines 76--83
-[][][][]\OT1/pcr/m/n/12.045 \includegraphics{picture.eps}[]\C19/zhfs/bx/n/12.04
-5/64 ç \C19/zhfs/bx/n/12.045/38 — \C19/zhfs/bx/n/12.045/49 
+[][][]\OT1/pcr/m/n/12.045 \includegraphics{picture.eps}[]\C19/zhfs/bx/n/12.045/
+64 ç \C19/zhfs/bx/n/12.045/38 — \C19/zhfs/bx/n/12.045/49 
  \C19/zhfs/bx/n/12.045/61 á \C19/zhfs/bx/n/12.045/57 V \C19/zhfs/bx/n/12.045/45
  \ \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/57 „ \C19/zhfs/bx/n/12.04
 5/52 ° \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/1
@@ -1871,13 +2326,31 @@ Overfull \hbox (0.86021pt too wide) in paragraph at lines 76--83
 n/12.045/52 ° \C19/zhfs/bx/n/12.045/63 3 \C19/zhfs/bx/n/12.045/52 Ÿ
  []
 
-File: ./Pictures/LHS.eps Graphic file (type eps)
-<./Pictures/LHS.eps>
+Package epstopdf Info: Source file: <./Pictures/LHS.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 928536 bytes
+(epstopdf)             Output file: <./Pictures/LHS-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:40:08
+(epstopdf)                    size: 98891 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/LHS-eps-convert
+ed-to.pdf ./Pictures/LHS.eps>
+(epstopdf)             \includegraphics on input line 86.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/LHS-eps-converted-to.pdf, id=669, 331.2375pt x 331.2375pt>
+File: ./Pictures/LHS-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/LHS-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/LHS-eps-converted-to.pdf  used on input lin
+e 86.
+(pdftex.def)             Requested size: 472.50787pt x 472.52881pt.
+
+LaTeX Warning: Reference `FigHalfr90' on page 33 undefined on input line 98.
+
+
 Overfull \hbox (112.15602pt too wide) in paragraph at lines 91--99
-[][]\C19/zhfs/bx/n/12.045/64 ç \C19/zhfs/bx/n/12.045/40 Ω \C19/zhfs/bx/n/12.045
-/58 è \C19/zhfs/bx/n/12.045/62 Ü \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.0
-45/65 i \C19/zhfs/bx/n/12.045/61 ò ^^X \C19/zhfs/bx/n/12.045/47 ∞ \C19/zhfs/bx/
-n/12.045/57 ^^T \C19/zhfs/bx/n/12.045/47 ∞ \C19/zhfs/bx/n/12.045/49 
+[]\C19/zhfs/bx/n/12.045/64 ç \C19/zhfs/bx/n/12.045/40 Ω \C19/zhfs/bx/n/12.045/5
+8 è \C19/zhfs/bx/n/12.045/62 Ü \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045
+/65 i \C19/zhfs/bx/n/12.045/61 ò ^^X \C19/zhfs/bx/n/12.045/47 ∞ \C19/zhfs/bx/n/
+12.045/57 ^^T \C19/zhfs/bx/n/12.045/47 ∞ \C19/zhfs/bx/n/12.045/49 
 |\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/59 e \C19/zhfs/m/n/12.045/50 
 ° \C19/zhfs/bx/n/12.045/48 5 \C19/zhfs/bx/n/12.045/36 r \C19/zhfs/bx/n/12.045/5
 6 ß † \C19/zhfs/bx/n/12.045/60 ^^B \C19/zhfs/bx/n/12.045/40 :|\C19/zhfs/m/n/12.
@@ -1905,51 +2378,156 @@ zhfs/bx/n/12.045/38 ∫ \C19/zhfs/bx/n/12.045/39 Ä å \C19/zhfs/bx/n/12.045/60 ^^B
 5/65 =\OT1/ptm/m/n/12.045 90\C19/zhfs/bx/n/12.045/40 ›
  []
 
-[33]
-File: ./Pictures/LHS.eps Graphic file (type eps)
- <./Pictures/LHS.eps> [34]
-File: ./Pictures/matlabfig.eps Graphic file (type eps)
- <./Pictures/matlabfig.eps>
-File: ./Pictures/matlabfigchg.eps Graphic file (type eps)
+[33 <./Pictures/LHS-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./Pictures/LHS.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 928536 bytes
+(epstopdf)             Output file: <./Pictures/LHS-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:40:08
+(epstopdf)                    size: 98891 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/LHS-eps-convert
+ed-to.pdf ./Pictures/LHS.eps>
+(epstopdf)             \includegraphics on input line 102.
+Package epstopdf Info: Output file is already uptodate.
+File: ./Pictures/LHS-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/LHS-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/LHS-eps-converted-to.pdf  used on input lin
+e 102.
+(pdftex.def)             Requested size: 165.61833pt x 165.61833pt.
+ [34]
 
-<./Pictures/matlabfigchg.eps> [35]
-File: ./Pictures/matlabfig.eps Graphic file (type eps)
- <./Pictures/matlabfig.eps>
-File: ./Pictures/matlabfigchg.eps Graphic file (type eps)
+LaTeX Warning: Reference `Figmatlab' on page 35 undefined on input line 159.
 
-<./Pictures/matlabfigchg.eps>
+Package epstopdf Info: Source file: <./Pictures/matlabfig.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 32768 bytes
+(epstopdf)             Output file: <./Pictures/matlabfig-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2018-09-12 21:40:11
+(epstopdf)                    size: 18255 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/matlabfig-eps-c
+onverted-to.pdf ./Pictures/matlabfig.eps>
+(epstopdf)             \includegraphics on input line 180.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/matlabfig-eps-converted-to.pdf, id=686, 312.16624pt x 203.76125pt>
+File: ./Pictures/matlabfig-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/matlabfig-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/matlabfig-eps-converted-to.pdf  used on inp
+ut line 180.
+(pdftex.def)             Requested size: 187.3012pt x 122.25768pt.
+Package epstopdf Info: Source file: <./Pictures/matlabfigchg.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 182889 bytes
+(epstopdf)             Output file: <./Pictures/matlabfigchg-eps-converted-to.p
+df>
+(epstopdf)                    date: 2018-09-12 21:40:13
+(epstopdf)                    size: 20517 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/matlabfigchg-ep
+s-converted-to.pdf ./Pictures/matlabfigchg.eps>
+(epstopdf)             \includegraphics on input line 181.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/matlabfigchg-eps-converted-to.pdf, id=687, 287.0725pt x 207.77625pt
+>
+File: ./Pictures/matlabfigchg-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/matlabfigchg-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/matlabfigchg-eps-converted-to.pdf  used on 
+input line 181.
+(pdftex.def)             Requested size: 172.24483pt x 124.6667pt.
+
+LaTeX Warning: Reference `Figmatlab' on page 35 undefined on input line 186.
+
+[35]
+
+LaTeX Warning: Reference `Fig:SubFigures' on page 36 undefined on input line 22
+0.
+
+Package epstopdf Info: Source file: <./Pictures/matlabfig.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 32768 bytes
+(epstopdf)             Output file: <./Pictures/matlabfig-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2018-09-12 21:40:11
+(epstopdf)                    size: 18255 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/matlabfig-eps-c
+onverted-to.pdf ./Pictures/matlabfig.eps>
+(epstopdf)             \includegraphics on input line 230.
+Package epstopdf Info: Output file is already uptodate.
+File: ./Pictures/matlabfig-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/matlabfig-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/matlabfig-eps-converted-to.pdf  used on inp
+ut line 230.
+(pdftex.def)             Requested size: 187.3012pt x 122.25768pt.
+Package epstopdf Info: Source file: <./Pictures/matlabfigchg.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 182889 bytes
+(epstopdf)             Output file: <./Pictures/matlabfigchg-eps-converted-to.p
+df>
+(epstopdf)                    date: 2018-09-12 21:40:13
+(epstopdf)                    size: 20517 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/matlabfigchg-ep
+s-converted-to.pdf ./Pictures/matlabfigchg.eps>
+(epstopdf)             \includegraphics on input line 236.
+Package epstopdf Info: Output file is already uptodate.
+File: ./Pictures/matlabfigchg-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/matlabfigchg-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/matlabfigchg-eps-converted-to.pdf  used on 
+input line 236.
+(pdftex.def)             Requested size: 172.24483pt x 124.6667pt.
+
 Overfull \hbox (7.27219pt too wide) in paragraph at lines 230--237
-[][][] [][] 
+[][] [][] 
  []
 
-[36]
+[36 <./Pictures/matlabfig-eps-converted-to.pdf> <./Pictures/matlabfigchg-eps-co
+nverted-to.pdf>]
+
+LaTeX Warning: Reference `Tabkeyword' on page 37 undefined on input line 247.
+
+
+LaTeX Warning: Reference `Tabkeyword' on page 37 undefined on input line 309.
+
+
 Overfull \hbox (36.7535pt too wide) in paragraph at lines 303--315
-[][][][]\OT1/pcr/m/n/12.045 \begin{tabular}[t]{c|l|r|p{4cm}}[]\C19/zhfs/bx/n/12
-.045/55 ¥ \C19/zhfs/bx/n/12.045/37 L \C19/zhfs/bx/n/12.045/42 Ç \C19/zhfs/bx/n/
-12.045/47 m \C19/zhfs/bx/n/12.045/55 © \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/b
-x/n/12.045/37 I \C19/zhfs/bx/n/12.045/64 ì|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs
-/bx/n/12.045/65 5 \C19/zhfs/bx/n/12.045/61 ø \C19/zhfs/bx/n/12.045/62 Ü [][]\OT
-1/pcr/m/n/12.045 \begin []{table}[]\C19/zhfs/bx/n/12.045/53 ´
+[][][]\OT1/pcr/m/n/12.045 \begin{tabular}[t]{c|l|r|p{4cm}}[]\C19/zhfs/bx/n/12.0
+45/55 ¥ \C19/zhfs/bx/n/12.045/37 L \C19/zhfs/bx/n/12.045/42 Ç \C19/zhfs/bx/n/12
+.045/47 m \C19/zhfs/bx/n/12.045/55 © \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/
+n/12.045/37 I \C19/zhfs/bx/n/12.045/64 ì|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/b
+x/n/12.045/65 5 \C19/zhfs/bx/n/12.045/61 ø \C19/zhfs/bx/n/12.045/62 Ü [][]\OT1/
+pcr/m/n/12.045 \begin []{table}[]\C19/zhfs/bx/n/12.045/53 ´
  []
 
 [37]
 Overfull \hbox (6.61778pt too wide) in paragraph at lines 318--320
-[][]\C19/zhfs/bx/n/12.045/37 L \C19/zhfs/bx/n/12.045/42 Ç \C19/zhfs/bx/n/12.045
-/51 S \C19/zhfs/bx/n/12.045/54 N \C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.0
-45/61 ò \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12
-.045/60 1 \C19/zhfs/bx/n/12.045/48 5 \C19/zhfs/bx/n/12.045/57 W \C19/zhfs/bx/n/
-12.045/40 ^^[|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/m/n/12.045/50 z \C19/zhfs/bx
-/n/12.045/61 ò \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/46 ( \C19/zhfs/
-bx/n/12.045/55 Â ¶ \C19/zhfs/bx/n/12.045/62 ^ \C19/zhfs/bx/n/12.045/40 ‰ \C19/z
-hfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/41 Œ[][]\OT1/pcr/m/n/12.045 \\|[]\C1
-9/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/57 ” \C19/zhfs/bx/n/12.045/61 ò \
-C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/64 • \C19/zhfs/bx/n/12.045/37 ÿ
- \C19/zhfs/bx/n/12.045/57 ” \C19/zhfs/bx/n/12.045/49 ^^O \C19/zhfs/bx/n/12.045/
-40 ^^[ \C19/zhfs/bx/n/12.045/63 ^^C \C19/zhfs/bx/n/12.045/56 É \C19/zhfs/bx/n/1
-2.045/62 ^\OT1/ptm/m/n/12.045 &\C19/zhfs/bx/n/12.045/48 5
+[]\C19/zhfs/bx/n/12.045/37 L \C19/zhfs/bx/n/12.045/42 Ç \C19/zhfs/bx/n/12.045/5
+1 S \C19/zhfs/bx/n/12.045/54 N \C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045
+/61 ò \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.0
+45/60 1 \C19/zhfs/bx/n/12.045/48 5 \C19/zhfs/bx/n/12.045/57 W \C19/zhfs/bx/n/12
+.045/40 ^^[|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/m/n/12.045/50 z \C19/zhfs/bx/n
+/12.045/61 ò \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/46 ( \C19/zhfs/bx
+/n/12.045/55 Â ¶ \C19/zhfs/bx/n/12.045/62 ^ \C19/zhfs/bx/n/12.045/40 ‰ \C19/zhf
+s/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/41 Œ[][]\OT1/pcr/m/n/12.045 \\|[]\C19/
+zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/57 ” \C19/zhfs/bx/n/12.045/61 ò \C1
+9/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/64 • \C19/zhfs/bx/n/12.045/37 ÿ \
+C19/zhfs/bx/n/12.045/57 ” \C19/zhfs/bx/n/12.045/49 ^^O \C19/zhfs/bx/n/12.045/40
+ ^^[ \C19/zhfs/bx/n/12.045/63 ^^C \C19/zhfs/bx/n/12.045/56 É \C19/zhfs/bx/n/12.
+045/62 ^\OT1/ptm/m/n/12.045 &\C19/zhfs/bx/n/12.045/48 5
  []
 
+
+LaTeX Warning: Reference `Tab3Line' on page 38 undefined on input line 329.
+
+
+LaTeX Warning: Reference `Tab3Line' on page 38 undefined on input line 351.
+
 [38]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 384.
+
+
+Package natbib Warning: Citation `LaTeXshzh' on page 39 undefined on input line
+ 384.
+
+
 Overfull \hbox (36.27249pt too wide) in paragraph at lines 390--394
 []\C19/zhfs/bx/n/12.045/40 — \C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/3
 7 ' \C19/zhfs/bx/n/12.045/46 ^^V \C19/zhfs/bx/n/12.045/39 o \C19/zhfs/bx/n/12.0
@@ -1966,6 +2544,12 @@ x/n/12.045/49 -|\C19/zhfs/m/n/12.045/26 ß| [][]\OT1/pcr/m/n/12.045 \cmidrule|[]
 \C19/zhfs/m/n/12.045/26 ß|
  []
 
+
+LaTeX Warning: Reference `TabComplex' on page 39 undefined on input line 400.
+
+
+LaTeX Warning: Reference `TabComplex' on page 39 undefined on input line 418.
+
 [39]
 Overfull \hbox (2.66669pt too wide) in paragraph at lines 439--439
 []\OT1/pcr/m/n/9.03374 \multirow{2}*{\C19/zhfs/m/n/9.03374/58 ∑ \C19/zhfs/m/n/9
@@ -1981,17 +2565,17 @@ w{2}*{\C19/zhfs/m/n/9.03374/58 ∑
 
 
 Overfull \hbox (1.10124pt too wide) in paragraph at lines 446--447
-[][][][]\OT1/pcr/m/n/12.045 \multirow{2}*{\C19/zhfs/bx/n/12.045/37 L \C19/zhfs/
-bx/n/12.045/42 Ç \C19/zhfs/bx/n/12.045/51 S \C19/zhfs/bx/n/12.045/54 N\OT1/pcr/
-m/n/12.045 }[]\C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/43 ‹ \C19/zhfs/b
-x/n/12.045/37 ø \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zh
-fs/m/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045/49 -|\C19/zhfs/m/n/12.045/26 ß| \C19/z
-hfs/bx/n/12.045/37 Î \C19/zhfs/bx/n/12.045/55 Í\OT1/ptm/m/n/12.045 2\C19/zhfs/b
-x/n/12.045/37 L \C19/zhfs/bx/n/12.045/55 ´ \C19/zhfs/bx/n/12.045/43 ‹ \C19/zhfs
-/bx/n/12.045/37 ø \C19/zhfs/bx/n/12.045/48 ¸ \C19/zhfs/bx/n/12.045/60 1|\C19/zh
-fs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/65 5 \C19/zhfs/bx/n/12.045/61 ø \C19/
-zhfs/bx/n/12.045/64 • \C19/zhfs/bx/n/12.045/45 m \C19/zhfs/bx/n/12.045/40 ^^[\O
-T1/ptm/m/n/12.045 *\C19/zhfs/bx/n/12.045/43 “|\C19/zhfs/bx/n/12.045/25 "|
+[][][]\OT1/pcr/m/n/12.045 \multirow{2}*{\C19/zhfs/bx/n/12.045/37 L \C19/zhfs/bx
+/n/12.045/42 Ç \C19/zhfs/bx/n/12.045/51 S \C19/zhfs/bx/n/12.045/54 N\OT1/pcr/m/
+n/12.045 }[]\C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/43 ‹ \C19/zhfs/bx/
+n/12.045/37 ø \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs
+/m/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045/49 -|\C19/zhfs/m/n/12.045/26 ß| \C19/zhf
+s/bx/n/12.045/37 Î \C19/zhfs/bx/n/12.045/55 Í\OT1/ptm/m/n/12.045 2\C19/zhfs/bx/
+n/12.045/37 L \C19/zhfs/bx/n/12.045/55 ´ \C19/zhfs/bx/n/12.045/43 ‹ \C19/zhfs/b
+x/n/12.045/37 ø \C19/zhfs/bx/n/12.045/48 ¸ \C19/zhfs/bx/n/12.045/60 1|\C19/zhfs
+/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/65 5 \C19/zhfs/bx/n/12.045/61 ø \C19/zh
+fs/bx/n/12.045/64 • \C19/zhfs/bx/n/12.045/45 m \C19/zhfs/bx/n/12.045/40 ^^[\OT1
+/ptm/m/n/12.045 *\C19/zhfs/bx/n/12.045/43 “|\C19/zhfs/bx/n/12.045/25 "|
  []
 
 
@@ -2001,29 +2585,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 446--447
 
 
 Overfull \hbox (11.70068pt too wide) in paragraph at lines 451--453
-[][][][]\OT1/pcr/m/n/12.045 \cline{2-3}[]\C19/zhfs/bx/n/12.045/39 ì \C19/zhfs/b
-x/n/12.045/37 L \C19/zhfs/bx/n/12.045/43 Ó \C19/zhfs/bx/n/12.045/59 Ç \C19/zhfs
-/bx/n/12.045/64 ê \C19/zhfs/bx/n/12.045/44 y \C19/zhfs/bx/n/12.045/40 1 \C19/zh
-fs/bx/n/12.045/41 ^^S \C19/zhfs/bx/n/12.045/49 ^^O \C19/zhfs/bx/n/12.045/62 Ü \
-C19/zhfs/bx/n/12.045/40 1 \C19/zhfs/bx/n/12.045/54 n \C19/zhfs/bx/n/12.045/49 ^
-^O|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/
-43 J \C19/zhfs/bx/n/12.045/44 y\OT1/ptm/m/n/12.045 2,3,5\C19/zhfs/bx/n/12.045/4
-9 ^^O|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 K \C19/zhfs/bx/n/12.0
-45/60 ^^U \C19/zhfs/bx/n/12.045/58 è[][]\OT1/pcr/m/n/12.045 \cline{2-3,5}
+[][][]\OT1/pcr/m/n/12.045 \cline{2-3}[]\C19/zhfs/bx/n/12.045/39 ì \C19/zhfs/bx/
+n/12.045/37 L \C19/zhfs/bx/n/12.045/43 Ó \C19/zhfs/bx/n/12.045/59 Ç \C19/zhfs/b
+x/n/12.045/64 ê \C19/zhfs/bx/n/12.045/44 y \C19/zhfs/bx/n/12.045/40 1 \C19/zhfs
+/bx/n/12.045/41 ^^S \C19/zhfs/bx/n/12.045/49 ^^O \C19/zhfs/bx/n/12.045/62 Ü \C1
+9/zhfs/bx/n/12.045/40 1 \C19/zhfs/bx/n/12.045/54 n \C19/zhfs/bx/n/12.045/49 ^^O
+|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/43
+ J \C19/zhfs/bx/n/12.045/44 y\OT1/ptm/m/n/12.045 2,3,5\C19/zhfs/bx/n/12.045/49 
+^^O|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 K \C19/zhfs/bx/n/12.045
+/60 ^^U \C19/zhfs/bx/n/12.045/58 è[][]\OT1/pcr/m/n/12.045 \cline{2-3,5}
  []
 
+
+Package natbib Warning: Citation `LaTeXshzh' on page 40 undefined on input line
+ 459.
+
+
+Package natbib Warning: Citation `LaTeXshzh' on page 40 undefined on input line
+ 461.
+
+
+Package natbib Warning: Citation `Table:Lapo' on page 40 undefined on input lin
+e 461.
+
+
+Package natbib Warning: Citation `LaTeXshzh' on page 40 undefined on input line
+ 466.
+
+
+LaTeX Warning: Reference `Equ:exm' on page 40 undefined on input line 471.
+
 [40]
+
+LaTeX Warning: Reference `Equ:exm' on page 41 undefined on input line 478.
+
+
 Overfull \hbox (1.25569pt too wide) in paragraph at lines 494--496
-[][][][]\OT1/pcr/m/n/12.045 label{Equ:exm}[]\C19/zhfs/bx/n/12.045/55 ¥ \C19/zhf
-s/bx/n/12.045/42 â ˙ \C19/zhfs/bx/n/12.045/55 ™ \C19/zhfs/bx/n/12.045/61 ò \C19
-/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/37 ? \C19/zhfs/bx/n/12.045/43 “|\C
-19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/61 ± \C19/zhfs/bx/n/12.045/37 B 
-\C19/zhfs/bx/n/12.045/63 3 \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/64 
-• \C19/zhfs/bx/n/12.045/61 ⁄ \C19/zhfs/bx/n/12.045/62 ^|\C19/zhfs/bx/n/12.045/2
-5 "| \C19/zhfs/bx/n/12.045/42 T ˙ \C19/zhfs/bx/n/12.045/55 ™ \C19/zhfs/bx/n/12.
-045/37 ? \C19/zhfs/bx/n/12.045/43 “ \C19/zhfs/bx/n/12.045/62 d\OT1/ptm/m/n/12.0
-45 L[]T[]X\C19/zhfs/bx/n/12.045/42 K \C19/zhfs/bx/n/12.045/63 I|\C19/zhfs/m/n/1
-2.045/26 ß| \C19/zhfs/bx/n/12.045/61 ò
+[][][]\OT1/pcr/m/n/12.045 label{Equ:exm}[]\C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/
+bx/n/12.045/42 â ˙ \C19/zhfs/bx/n/12.045/55 ™ \C19/zhfs/bx/n/12.045/61 ò \C19/z
+hfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/37 ? \C19/zhfs/bx/n/12.045/43 “|\C19
+/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/61 ± \C19/zhfs/bx/n/12.045/37 B \C
+19/zhfs/bx/n/12.045/63 3 \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/64 • 
+\C19/zhfs/bx/n/12.045/61 ⁄ \C19/zhfs/bx/n/12.045/62 ^|\C19/zhfs/bx/n/12.045/25 
+"| \C19/zhfs/bx/n/12.045/42 T ˙ \C19/zhfs/bx/n/12.045/55 ™ \C19/zhfs/bx/n/12.04
+5/37 ? \C19/zhfs/bx/n/12.045/43 “ \C19/zhfs/bx/n/12.045/62 d\OT1/ptm/m/n/12.045
+ L[]T[]X\C19/zhfs/bx/n/12.045/42 K \C19/zhfs/bx/n/12.045/63 I|\C19/zhfs/m/n/12.
+045/26 ß| \C19/zhfs/bx/n/12.045/61 ò
  []
 
 
@@ -2044,6 +2651,10 @@ hfs/bx/n/12.045/59 z|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 K \C19
  []
 
 [41]
+
+LaTeX Warning: Reference `ChapsecList' on page 42 undefined on input line 532.
+
+
 Overfull \hbox (12.60364pt too wide) in paragraph at lines 571--574
 [][]\C19/zhfs/m/n/9.03374/58 ∑ \C19/zhfs/m/n/9.03374/63 ˘ \C19/zhfs/m/n/9.03374
 /61 ò \C19/zhfs/m/n/9.03374/40 „ \C19/zhfs/m/n/9.03374/44 { \C19/zhfs/m/n/9.033
@@ -2071,32 +2682,32 @@ LaTeX Font Info:    Try loading font information for C19+zhli on input line 577
 File: c19zhli.fd 2009/09/23 4.8.2
 )
 Overfull \hbox (32.93398pt too wide) in paragraph at lines 575--580
-[][]\C19/zhfs/bx/n/12.045/63 3\OT1/ptm/m/n/12.045 L[]T[]X\C19/zhfs/bx/n/12.045/
-64 • \C19/zhfs/bx/n/12.045/47 å \C19/zhfs/bx/n/12.045/61 ± \C19/zhfs/bx/n/12.04
-5/62 ^ \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/65 i \C19/zhfs/bx/n/1
-2.045/57 N \C19/zhfs/bx/n/12.045/62 k \C19/zhsong/m/n/12.045/56 y \C19/rm/m/n/1
-2.045/57 N[][]\OT1/pcr/m/n/12.045 \songti|[]\C19/zhfs/m/n/12.045/26 ß| \C19/zhf
-s/bx/n/12.045/41 ï \C19/zhfs/bx/n/12.045/56 y[][]\OT1/pcr/m/n/12.045 \fangsong|
-[]\C19/zhfs/m/n/12.045/26 ß|  \C19/zhkai/m/n/12.045/47 o \C19/zhkai/m/n/12.045/
-57 N[][]\OT1/pcr/m/n/12.045 \kaishu|[]\C19/zhfs/m/n/12.045/26 ß| \C19/zhhei/m/n
-/12.045/43 Á \C19/zhhei/m/n/12.045/57 N[][]\OT1/pcr/m/n/12.045 \heiti|[]\C19/zh
-fs/m/n/12.045/26 ß|
+[]\C19/zhfs/bx/n/12.045/63 3\OT1/ptm/m/n/12.045 L[]T[]X\C19/zhfs/bx/n/12.045/64
+ • \C19/zhfs/bx/n/12.045/47 å \C19/zhfs/bx/n/12.045/61 ± \C19/zhfs/bx/n/12.045/
+62 ^ \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/65 i \C19/zhfs/bx/n/12.
+045/57 N \C19/zhfs/bx/n/12.045/62 k \C19/zhsong/m/n/12.045/56 y \C19/rm/m/n/12.
+045/57 N[][]\OT1/pcr/m/n/12.045 \songti|[]\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/
+bx/n/12.045/41 ï \C19/zhfs/bx/n/12.045/56 y[][]\OT1/pcr/m/n/12.045 \fangsong|[]
+\C19/zhfs/m/n/12.045/26 ß|  \C19/zhkai/m/n/12.045/47 o \C19/zhkai/m/n/12.045/57
+ N[][]\OT1/pcr/m/n/12.045 \kaishu|[]\C19/zhfs/m/n/12.045/26 ß| \C19/zhhei/m/n/1
+2.045/43 Á \C19/zhhei/m/n/12.045/57 N[][]\OT1/pcr/m/n/12.045 \heiti|[]\C19/zhfs
+/m/n/12.045/26 ß|
  []
 
 
 Overfull \hbox (44.4632pt too wide) in paragraph at lines 581--583
-[][]\C19/zhfs/bx/n/12.045/43 ' \C19/zhfs/bx/n/12.045/62 u \C19/zhfs/bx/n/12.045
-/45 \ \C19/zhfs/bx/n/12.045/39 o \C19/zhfs/bx/n/12.045/65 i \C19/zhfs/bx/n/12.0
-45/57 N \C19/zhfs/m/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045/49 -[][]\OT1/pcr/m/n/12
-.045 \bfseries|[]\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/40 È \C19/zhf
-s/bx/n/12.045/62 = \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/65 i \C19/z
-hfs/bx/n/12.045/41 Œ \C19/zhfs/bx/n/12.045/64 ê \C19/zhfs/bx/n/12.045/61 á \C19
-/zhfs/bx/n/12.045/55 ¶ \C19/zhfs/bx/n/12.045/62 ^[][]\OT1/pcr/m/n/12.045 \bf[]\
-C19/zhfs/bx/n/12.045/45 = \C19/zhfs/bx/n/12.045/47 å|\C19/zhfs/m/n/12.045/26 ß|
- \C19/zhfs/bx/n/12.045/64 • \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/65
- i \C19/zhfs/bx/n/12.045/41 Œ \C19/zhfs/bx/n/12.045/62 A \C19/zhfs/bx/n/12.045/
-55 ¶ \C19/zhfs/bx/n/12.045/62 ^[][]\OT1/pcr/m/n/12.045 \bfseries|[]\C19/zhfs/bx
-/n/12.045/25 "|
+[]\C19/zhfs/bx/n/12.045/43 ' \C19/zhfs/bx/n/12.045/62 u \C19/zhfs/bx/n/12.045/4
+5 \ \C19/zhfs/bx/n/12.045/39 o \C19/zhfs/bx/n/12.045/65 i \C19/zhfs/bx/n/12.045
+/57 N \C19/zhfs/m/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045/49 -[][]\OT1/pcr/m/n/12.0
+45 \bfseries|[]\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/40 È \C19/zhfs/
+bx/n/12.045/62 = \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/65 i \C19/zhf
+s/bx/n/12.045/41 Œ \C19/zhfs/bx/n/12.045/64 ê \C19/zhfs/bx/n/12.045/61 á \C19/z
+hfs/bx/n/12.045/55 ¶ \C19/zhfs/bx/n/12.045/62 ^[][]\OT1/pcr/m/n/12.045 \bf[]\C1
+9/zhfs/bx/n/12.045/45 = \C19/zhfs/bx/n/12.045/47 å|\C19/zhfs/m/n/12.045/26 ß| \
+C19/zhfs/bx/n/12.045/64 • \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/65 i
+ \C19/zhfs/bx/n/12.045/41 Œ \C19/zhfs/bx/n/12.045/62 A \C19/zhfs/bx/n/12.045/55
+ ¶ \C19/zhfs/bx/n/12.045/62 ^[][]\OT1/pcr/m/n/12.045 \bfseries|[]\C19/zhfs/bx/n
+/12.045/25 "|
  []
 
 
@@ -2111,18 +2722,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 581--583
 4
 
 Overfull \hbox (45.91917pt too wide) in paragraph at lines 15--20
-[][]\C19/zhfs/bx/n/12.045/37 ÿ \C19/zhfs/bx/n/12.045/57 ” \C19/zhfs/bx/n/12.045
-/59 X \C19/zhfs/bx/n/12.045/57 ⁄ \C19/zhfs/bx/n/12.045/59 e \C19/zhfs/bx/n/12.0
-45/55 ) \C19/zhfs/bx/n/12.045/38 § \C19/zhfs/bx/n/12.045/40 ^^[\OT1/ptm/m/n/12.
-045 eps\C19/zhfs/bx/n/12.045/47 å \C19/zhfs/bx/n/12.045/51 U \C19/zhfs/bx/n/12.
-045/44 ¨ \C19/zhfs/bx/n/12.045/62 k \C19/zhfs/bx/n/12.045/45 o \C19/zhfs/bx/n/1
-2.045/54 N \C19/zhfs/bx/n/12.045/58 Ø \C19/zhfs/bx/n/12.045/57 K|\C19/zhfs/m/n/
-12.045/26 ß| \C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/37 ^^] \C19/zhfs/
-bx/n/12.045/51 ^^\ \C19/zhfs/bx/n/12.045/36 á \C19/zhfs/bx/n/12.045/64 • \C19/z
-hfs/bx/n/12.045/40 ^^[\OT1/ptm/m/n/12.045 setroot.eps\C19/zhfs/bx/n/12.045/43 ⁄
-\OT1/ptm/m/n/12.045 rffndb.eps|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045
-/63 3\OT1/ptm/m/n/12.045 xp\C19/zhfs/bx/n/12.045/43 ⁄\OT1/ptm/m/n/12.045 window
-s
+[]\C19/zhfs/bx/n/12.045/37 ÿ \C19/zhfs/bx/n/12.045/57 ” \C19/zhfs/bx/n/12.045/5
+9 X \C19/zhfs/bx/n/12.045/57 ⁄ \C19/zhfs/bx/n/12.045/59 e \C19/zhfs/bx/n/12.045
+/55 ) \C19/zhfs/bx/n/12.045/38 § \C19/zhfs/bx/n/12.045/40 ^^[\OT1/ptm/m/n/12.04
+5 eps\C19/zhfs/bx/n/12.045/47 å \C19/zhfs/bx/n/12.045/51 U \C19/zhfs/bx/n/12.04
+5/44 ¨ \C19/zhfs/bx/n/12.045/62 k \C19/zhfs/bx/n/12.045/45 o \C19/zhfs/bx/n/12.
+045/54 N \C19/zhfs/bx/n/12.045/58 Ø \C19/zhfs/bx/n/12.045/57 K|\C19/zhfs/m/n/12
+.045/26 ß| \C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/37 ^^] \C19/zhfs/bx
+/n/12.045/51 ^^\ \C19/zhfs/bx/n/12.045/36 á \C19/zhfs/bx/n/12.045/64 • \C19/zhf
+s/bx/n/12.045/40 ^^[\OT1/ptm/m/n/12.045 setroot.eps\C19/zhfs/bx/n/12.045/43 ⁄\O
+T1/ptm/m/n/12.045 rffndb.eps|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/6
+3 3\OT1/ptm/m/n/12.045 xp\C19/zhfs/bx/n/12.045/43 ⁄\OT1/ptm/m/n/12.045 windows
  []
 
 
@@ -2144,56 +2754,162 @@ zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/46 “ \C19/zhfs/bx/n/12.045/59 î \C1
  []
 
 
-Overfull \hbox (4.90543pt too wide) in paragraph at lines 32--35
-[][]\C19/zhfs/bx/n/12.045/36 r \C19/zhfs/bx/n/12.045/49 , \C19/zhfs/bx/n/12.045
-/58 	 \C19/zhfs/bx/n/12.045/45 A \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.0
-45/37 Î \C19/zhfs/bx/n/12.045/47 ^^? \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/
-12.045/59 z \C19/zhfs/bx/n/12.045/40 ^^H \C19/zhfs/bx/n/12.045/61 ⁄ \C19/zhfs/b
-x/n/12.045/62 ^ \C19/zhfs/bx/n/12.045/48 ~ \C19/zhfs/bx/n/12.045/65 f \C19/zhfs
-/bx/n/12.045/55 ¶ \C19/zhfs/bx/n/12.045/62 ^ \C19/zhfs/bx/n/12.045/61 ò \C19/zh
-fs/bx/n/12.045/59 e|\C19/zhfs/m/n/12.045/26 µ| \C19/zhfs/bx/n/12.045/65 ; \C19/
-zhfs/bx/n/12.045/48 |$[]$|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/37 I
- \C19/zhfs/bx/n/12.045/65 O$[]$|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.04
-5/40 > \C19/zhfs/bx/n/12.045/65 f \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.
-045/40 ^^L$[]$|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/52 œ \C19/zhfs/
-bx/n/12.045/47 r \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/63 Ÿ$[]$|\C19
-/zhfs/m/n/12.045/26 ß|
- []
+Package natbib Warning: Citation `WangZL' on page 44 undefined on input line 32
+.
+
+
+Package natbib Warning: Citation `WangStd' on page 44 undefined on input line 3
+2.
+
+
+Package natbib Warning: Citation `ZLB:1997' on page 44 undefined on input line 
+33.
+
+
+Package natbib Warning: Citation `LUOZ:2007' on page 44 undefined on input line
+ 33.
+
+
+Package natbib Warning: Citation `wang:2008' on page 44 undefined on input line
+ 34.
+
+
+Package natbib Warning: Citation `wangmt:2008' on page 44 undefined on input li
+ne 34.
 
 [44
 
 
 
-]
-File: ./Pictures/Construct.eps Graphic file (type eps)
- <./Pictures/Construct.eps> [45]
-File: ./Pictures/pdftotex.eps Graphic file (type eps)
- <./Pictures/pdftotex.eps>
-File: ./Pictures/textopdf.eps Graphic file (type eps)
 
-<./Pictures/textopdf.eps>) [46]
+Non-PDF special ignored!
+<special> x:gsave
+Non-PDF special ignored!
+<special> x:scale -1 1
+Non-PDF special ignored!
+<special> x:grestore
+]
+
+LaTeX Warning: Reference `Construct' on page 45 undefined on input line 53.
+
+Package epstopdf Info: Source file: <./Pictures/Construct.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 525359 bytes
+(epstopdf)             Output file: <./Pictures/Construct-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2018-09-12 21:40:15
+(epstopdf)                    size: 156434 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/Construct-eps-c
+onverted-to.pdf ./Pictures/Construct.eps>
+(epstopdf)             \includegraphics on input line 57.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/Construct-eps-converted-to.pdf, id=791, 1285.80376pt x 723.70375pt>
+
+File: ./Pictures/Construct-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/Construct-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/Construct-eps-converted-to.pdf  used on inp
+ut line 57.
+(pdftex.def)             Requested size: 472.50787pt x 265.94412pt.
+[45 <./Pictures/Construct-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `pdftotex' on page 46 undefined on input line 67.
+
+Package epstopdf Info: Source file: <./Pictures/pdftotex.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 1445755 bytes
+(epstopdf)             Output file: <./Pictures/pdftotex-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:40:18
+(epstopdf)                    size: 384071 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/pdftotex-eps-co
+nverted-to.pdf ./Pictures/pdftotex.eps>
+(epstopdf)             \includegraphics on input line 71.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/pdftotex-eps-converted-to.pdf, id=803, 1285.80376pt x 723.70375pt>
+File: ./Pictures/pdftotex-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/pdftotex-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/pdftotex-eps-converted-to.pdf  used on inpu
+t line 71.
+(pdftex.def)             Requested size: 472.50787pt x 265.94412pt.
+
+LaTeX Warning: Reference `textopdf' on page 46 undefined on input line 76.
+
+Package epstopdf Info: Source file: <./Pictures/textopdf.eps>
+(epstopdf)                    date: 2018-09-12 21:21:02
+(epstopdf)                    size: 1189819 bytes
+(epstopdf)             Output file: <./Pictures/textopdf-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-09-12 21:40:20
+(epstopdf)                    size: 315591 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Pictures/textopdf-eps-co
+nverted-to.pdf ./Pictures/textopdf.eps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+<./Pictures/textopdf-eps-converted-to.pdf, id=804, 1285.80376pt x 723.70375pt>
+File: ./Pictures/textopdf-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Pictures/textopdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Pictures/textopdf-eps-converted-to.pdf  used on inpu
+t line 80.
+(pdftex.def)             Requested size: 472.50787pt x 265.94412pt.
+) [46 <./Pictures/pdftotex-eps-converted-to.pdf> <./Pictures/textopdf-eps-conve
+rted-to.pdf>]
 \openout2 = `./Chapters/chap5.aux'.
 
  (./Chapters/chap5.tex
 5
+
+Package natbib Warning: Citation `LaTeXshzh' on page 47 undefined on input line
+ 14.
+
+
+Package natbib Warning: Citation `LaTeXshzh' on page 47 undefined on input line
+ 22.
+
 [47
 
 
 
-] [48]
+]
+
+Package natbib Warning: Citation `natbibdoc' on page 48 undefined on input line
+ 51.
+
+
+Package natbib Warning: Citation `LaTeXshzh' on page 48 undefined on input line
+ 58.
+
+
+Package natbib Warning: Citation `merlin' on page 48 undefined on input line 60
+.
+
+
+Package natbib Warning: Citation `makebst' on page 48 undefined on input line 6
+0.
+
+
+Package natbib Warning: Citation `btxhak' on page 48 undefined on input line 60
+.
+
+
+Package natbib Warning: Citation `btxdoc' on page 48 undefined on input line 60
+.
+
+[48]
 Overfull \hbox (13.86809pt too wide) in paragraph at lines 89--96
-[][]\C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/43 J \C19/zhfs/bx/n/12.045
-/58 © \C19/zhfs/bx/n/12.045/44 ^^@ \C19/zhfs/m/n/12.045/50 ° \C19/zhfs/bx/n/12.
-045/40 ^^[ \C19/zhfs/bx/n/12.045/37 Î \C19/zhfs/bx/n/12.045/47 ^^? \C19/zhfs/bx
-/n/12.045/58 © \C19/zhfs/bx/n/12.045/59 z \C19/zhfs/bx/n/12.045/49 ^^O \C19/zhf
-s/bx/n/12.045/37 L ÿ \C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/65 g \C19
-/zhfs/bx/n/12.045/45 C \C19/zhfs/bx/n/12.045/37 Ê \C19/zhfs/bx/n/12.045/62 ^\OT
-1/ptm/m/n/12.045 thebibliography\C19/zhfs/bx/n/12.045/44 Ç \C19/zhfs/bx/n/12.04
-5/46 ∏ \C19/zhfs/bx/n/12.045/55 ) \C19/zhfs/bx/n/12.045/38 §|\C19/zhfs/m/n/12.0
-45/26 ß| \C19/zhfs/bx/n/12.045/51 @ \C19/zhfs/bx/n/12.045/46 “ \C19/zhfs/bx/n/1
-2.045/55 ¥ ¥ \C19/zhfs/bx/n/12.045/62 d\OT1/ptm/m/n/12.045 BibTeX\C19/zhfs/bx/n
-/12.045/48 5
+[]\C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/43 J \C19/zhfs/bx/n/12.045/5
+8 © \C19/zhfs/bx/n/12.045/44 ^^@ \C19/zhfs/m/n/12.045/50 ° \C19/zhfs/bx/n/12.04
+5/40 ^^[ \C19/zhfs/bx/n/12.045/37 Î \C19/zhfs/bx/n/12.045/47 ^^? \C19/zhfs/bx/n
+/12.045/58 © \C19/zhfs/bx/n/12.045/59 z \C19/zhfs/bx/n/12.045/49 ^^O \C19/zhfs/
+bx/n/12.045/37 L ÿ \C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/65 g \C19/z
+hfs/bx/n/12.045/45 C \C19/zhfs/bx/n/12.045/37 Ê \C19/zhfs/bx/n/12.045/62 ^\OT1/
+ptm/m/n/12.045 thebibliography\C19/zhfs/bx/n/12.045/44 Ç \C19/zhfs/bx/n/12.045/
+46 ∏ \C19/zhfs/bx/n/12.045/55 ) \C19/zhfs/bx/n/12.045/38 §|\C19/zhfs/m/n/12.045
+/26 ß| \C19/zhfs/bx/n/12.045/51 @ \C19/zhfs/bx/n/12.045/46 “ \C19/zhfs/bx/n/12.
+045/55 ¥ ¥ \C19/zhfs/bx/n/12.045/62 d\OT1/ptm/m/n/12.045 BibTeX\C19/zhfs/bx/n/1
+2.045/48 5
  []
+
+
+Package natbib Warning: Citation `bibgb' on page 49 undefined on input line 115
+.
 
 [49]
 Overfull \hbox (2.25545pt too wide) in paragraph at lines 122--126
@@ -2212,9 +2928,13 @@ e[]wdj[]v1.0.mbs\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs
 
 
 Overfull \hbox (20.73418pt too wide) in paragraph at lines 133--133
-[][]\OT1/pcr/m/n/9.03374 mbsfile_wdj_v1.0.mbs  (with options: `seq-no,ed-au,dt-
-jnl,jttl-rm,pp-last,num-xser,btit-rm,[] 
+[]\OT1/pcr/m/n/9.03374 mbsfile_wdj_v1.0.mbs  (with options: `seq-no,ed-au,dt-jn
+l,jttl-rm,pp-last,num-xser,btit-rm,[] 
  []
+
+
+Package natbib Warning: Citation `bibgb' on page 50 undefined on input line 144
+.
 
 
 Overfull \hbox (4.79758pt too wide) in paragraph at lines 147--151
@@ -2235,29 +2955,29 @@ hfs/bx/n/12.045/37 Î
 
 [50]
 Overfull \hbox (20.75844pt too wide) in paragraph at lines 183--186
-[][]\C19/zhfs/bx/n/12.045/51 _ \C19/zhfs/bx/n/12.045/37 ≈ \C19/zhfs/bx/n/12.045
-/48 = \C19/zhfs/bx/n/12.045/37 L \C19/zhfs/bx/n/12.045/55 ´ \C19/zhfs/bx/n/12.0
-45/41 { \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/65 Å \C19/zhfs/bx/n/
-12.045/39 å \C19/zhfs/bx/n/12.045/57 A \C19/zhfs/bx/n/12.045/40 : \C19/zhfs/bx/
-n/12.045/46 “ \C19/zhfs/bx/n/12.045/55 ¥ © \C19/zhfs/bx/n/12.045/64 ™ \C19/zhfs
-/bx/n/12.045/63 3 \C19/zhfs/bx/n/12.045/37 ˆ \C19/zhfs/bx/n/12.045/65 ä \C19/zh
-fs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/63 “|\C19/
-zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/37 ˆ \C19/zhfs/bx/n/12.045/65 ä \C1
-9/zhfs/bx/n/12.045/58 √ \C19/zhfs/bx/n/12.045/41 ö \C19/zhfs/bx/n/12.045/60 ÿ \
-C19/zhfs/bx/n/12.045/63 “ \C19/zhfs/bx/n/12.045/38 — \C19/zhfs/bx/n/12.045/63 “
-|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/51 @ \C19/zhfs/m/n/12.045/50 
-o \C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á\OT1/ptm/m/n/12.045 BibT
-eX\C19/zhfs/bx/n/12.045/55 ¢
+[]\C19/zhfs/bx/n/12.045/51 _ \C19/zhfs/bx/n/12.045/37 ≈ \C19/zhfs/bx/n/12.045/4
+8 = \C19/zhfs/bx/n/12.045/37 L \C19/zhfs/bx/n/12.045/55 ´ \C19/zhfs/bx/n/12.045
+/41 { \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/65 Å \C19/zhfs/bx/n/12
+.045/39 å \C19/zhfs/bx/n/12.045/57 A \C19/zhfs/bx/n/12.045/40 : \C19/zhfs/bx/n/
+12.045/46 “ \C19/zhfs/bx/n/12.045/55 ¥ © \C19/zhfs/bx/n/12.045/64 ™ \C19/zhfs/b
+x/n/12.045/63 3 \C19/zhfs/bx/n/12.045/37 ˆ \C19/zhfs/bx/n/12.045/65 ä \C19/zhfs
+/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/63 “|\C19/zh
+fs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/37 ˆ \C19/zhfs/bx/n/12.045/65 ä \C19/
+zhfs/bx/n/12.045/58 √ \C19/zhfs/bx/n/12.045/41 ö \C19/zhfs/bx/n/12.045/60 ÿ \C1
+9/zhfs/bx/n/12.045/63 “ \C19/zhfs/bx/n/12.045/38 — \C19/zhfs/bx/n/12.045/63 “|\
+C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/51 @ \C19/zhfs/m/n/12.045/50 o 
+\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á\OT1/ptm/m/n/12.045 BibTeX
+\C19/zhfs/bx/n/12.045/55 ¢
  []
 
 [51]
 Overfull \hbox (33.09041pt too wide) in paragraph at lines 210--214
-[][]\C19/zhfs/bx/n/12.045/58 ∑ \C19/zhfs/m/n/12.045/50 Ç \C19/zhfs/bx/n/12.045/
-48 5 \C19/zhfs/bx/n/12.045/59 k \C19/zhfs/bx/n/12.045/47 w \C19/zhfs/bx/n/12.04
-5/40 1 \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045/46 È\OT1/ptm/m/n/12.045
- FUNCTION stan-dard|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 ˘ \C19/
-zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045/46 È \C19/zhfs/bx/n/12.045/39 ì \C1
-9/zhfs/bx/n/12.045/37 L \C19/zhfs/bx/n/12.045/49 
+[]\C19/zhfs/bx/n/12.045/58 ∑ \C19/zhfs/m/n/12.045/50 Ç \C19/zhfs/bx/n/12.045/48
+ 5 \C19/zhfs/bx/n/12.045/59 k \C19/zhfs/bx/n/12.045/47 w \C19/zhfs/bx/n/12.045/
+40 1 \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045/46 È\OT1/ptm/m/n/12.045 F
+UNCTION stan-dard|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 ˘ \C19/zh
+fs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045/46 È \C19/zhfs/bx/n/12.045/39 ì \C19/
+zhfs/bx/n/12.045/37 L \C19/zhfs/bx/n/12.045/49 
  \C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á\OT1/ptm/m/n/12.045 FUNCT
 ION\C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/62 ^ \C19/zhfs/bx/n/12.045/
 48 5 \C19/zhfs/bx/n/12.045/39 ? \C19/zhfs/bx/n/12.045/48 n\OT1/ptm/m/n/12.045 s
@@ -2266,11 +2986,11 @@ tandard\C19/zhfs/bx/n/12.045/63 ˘
 
 [52]
 Overfull \hbox (25.68408pt too wide) in paragraph at lines 279--283
-[][]\C19/zhfs/bx/n/12.045/63 3 \C19/zhfs/bx/n/12.045/54 ˛ \C19/zhfs/m/n/12.045/
-50 ° \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045/46 È \C19/zhfs/bx/n/12.04
-5/40 ^^[ \C19/zhfs/bx/n/12.045/44 ^^@ \C19/zhfs/m/n/12.045/50 °|\C19/zhfs/m/n/1
-2.045/26 ß| \C19/zhfs/bx/n/12.045/46 ^^Z \C19/zhfs/bx/n/12.045/65 X \C19/zhfs/b
-x/n/12.045/49 
+[]\C19/zhfs/bx/n/12.045/63 3 \C19/zhfs/bx/n/12.045/54 ˛ \C19/zhfs/m/n/12.045/50
+ ° \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045/46 È \C19/zhfs/bx/n/12.045/
+40 ^^[ \C19/zhfs/bx/n/12.045/44 ^^@ \C19/zhfs/m/n/12.045/50 °|\C19/zhfs/m/n/12.
+045/26 ß| \C19/zhfs/bx/n/12.045/46 ^^Z \C19/zhfs/bx/n/12.045/65 X \C19/zhfs/bx/
+n/12.045/49 
  \C19/zhfs/bx/n/12.045/48 ¸ \C19/zhfs/bx/n/12.045/46 È|\C19/zhfs/m/n/12.045/26 
 µ| \OT1/ptm/m/n/12.045 "author" out-put.check|\C19/zhfs/m/n/12.045/26 ß| \C19/z
 hfs/bx/n/12.045/58 è \C19/zhfs/bx/n/12.045/55 ü \C19/zhfs/m/n/12.045/50 o \C19/
@@ -2281,20 +3001,25 @@ C19/zhfs/m/n/12.045/26 ß|  [][]\OT1/pcr/m/n/12.045 "author"
 
 
 Overfull \hbox (14.62732pt too wide) in paragraph at lines 298--305
-[][]\C19/zhfs/bx/n/12.045/54 , \C19/zhfs/bx/n/12.045/44 ^^@[][]\OT1/pcr/m/n/12.
-045 output.check[]\C19/zhfs/bx/n/12.045/40 È \C19/zhfs/bx/n/12.045/42 f \C19/zh
-fs/bx/n/12.045/37 ‚ \C19/zhfs/bx/n/12.045/60 ÿ \C19/zhfs/bx/n/12.045/54 \ \C19/
-zhfs/bx/n/12.045/63 “ \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/48 ¸ \
-C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/63 ^^C \C19/zhfs/bx/n/12.045/56
- É \C19/zhfs/bx/n/12.045/46 ? \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/
-39 ? \C19/zhfs/bx/n/12.045/48 n|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.04
-5/46 ‰ \C19/zhfs/bx/n/12.045/57 N \C19/zhfs/bx/n/12.045/43 L \C19/zhfs/bx/n/12.
-045/38 ß \C19/zhfs/bx/n/12.045/58 è|\C19/zhfs/m/n/12.045/26 µ| \C19/zhfs/bx/n/1
-2.045/55 ƒ \C19/zhfs/bx/n/12.045/59 k \C19/zhfs/bx/n/12.045/36 r\OT1/ptm/m/n/12
-.045 "author"\C19/zhfs/bx/n/12.045/40 ^^F
+[]\C19/zhfs/bx/n/12.045/54 , \C19/zhfs/bx/n/12.045/44 ^^@[][]\OT1/pcr/m/n/12.04
+5 output.check[]\C19/zhfs/bx/n/12.045/40 È \C19/zhfs/bx/n/12.045/42 f \C19/zhfs
+/bx/n/12.045/37 ‚ \C19/zhfs/bx/n/12.045/60 ÿ \C19/zhfs/bx/n/12.045/54 \ \C19/zh
+fs/bx/n/12.045/63 “ \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/48 ¸ \C1
+9/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/63 ^^C \C19/zhfs/bx/n/12.045/56 É
+ \C19/zhfs/bx/n/12.045/46 ? \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/39
+ ? \C19/zhfs/bx/n/12.045/48 n|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/
+46 ‰ \C19/zhfs/bx/n/12.045/57 N \C19/zhfs/bx/n/12.045/43 L \C19/zhfs/bx/n/12.04
+5/38 ß \C19/zhfs/bx/n/12.045/58 è|\C19/zhfs/m/n/12.045/26 µ| \C19/zhfs/bx/n/12.
+045/55 ƒ \C19/zhfs/bx/n/12.045/59 k \C19/zhfs/bx/n/12.045/36 r\OT1/ptm/m/n/12.0
+45 "author"\C19/zhfs/bx/n/12.045/40 ^^F
  []
 
 [53]
+
+Package natbib Warning: Citation `btxhak' on page 54 undefined on input line 39
+4.
+
+
 Overfull \hbox (31.40517pt too wide) in paragraph at lines 407--413
 \C19/zhfs/bx/n/12.045/42 á\OT1/ptm/m/n/12.045 block\C19/zhfs/bx/n/12.045/40 ^^[
  \C19/zhfs/bx/n/12.045/46 ( \C19/zhfs/bx/n/12.045/55 Â|\C19/zhfs/bx/n/12.045/25
@@ -2311,40 +3036,49 @@ t-put.nonnull\C19/zhfs/bx/n/12.045/63 ˘
 
 
 Overfull \hbox (4.35321pt too wide) in paragraph at lines 414--419
-[][][][]\OT1/pcr/m/n/12.045 address "address" bibinfo.check []\C19/zhfs/bx/n/12
-.045/63 ˘ \C19/zhfs/bx/n/12.045/48 ¸ \C19/zhfs/bx/n/12.045/57 ^ \C19/zhfs/bx/n/
-12.045/50 ∑ \C19/zhfs/bx/n/12.045/49 - \C19/zhfs/bx/n/12.045/62 Ü \C19/zhfs/bx/
-n/12.045/53 c \C19/zhfs/bx/n/12.045/50 ° \C19/zhfs/bx/n/12.045/55 — \C19/zhfs/b
-x/n/12.045/54 \ \C19/zhfs/bx/n/12.045/65 ä \C19/zhfs/bx/n/12.045/63 ˆ|\C19/zhfs
-/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/57 K \C19/zhfs/bx/n/12.045/50 ∂ \C19/zh
-fs/bx/n/12.045/48 a \C19/zhfs/bx/n/12.045/56 q|\C19/zhfs/m/n/12.045/26 ß| \C19/
-zhfs/bx/n/12.045/61 è
+[][][]\OT1/pcr/m/n/12.045 address "address" bibinfo.check []\C19/zhfs/bx/n/12.0
+45/63 ˘ \C19/zhfs/bx/n/12.045/48 ¸ \C19/zhfs/bx/n/12.045/57 ^ \C19/zhfs/bx/n/12
+.045/50 ∑ \C19/zhfs/bx/n/12.045/49 - \C19/zhfs/bx/n/12.045/62 Ü \C19/zhfs/bx/n/
+12.045/53 c \C19/zhfs/bx/n/12.045/50 ° \C19/zhfs/bx/n/12.045/55 — \C19/zhfs/bx/
+n/12.045/54 \ \C19/zhfs/bx/n/12.045/65 ä \C19/zhfs/bx/n/12.045/63 ˆ|\C19/zhfs/m
+/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/57 K \C19/zhfs/bx/n/12.045/50 ∂ \C19/zhfs
+/bx/n/12.045/48 a \C19/zhfs/bx/n/12.045/56 q|\C19/zhfs/m/n/12.045/26 ß| \C19/zh
+fs/bx/n/12.045/61 è
  []
 
 [54]
 Overfull \hbox (2.42607pt too wide) in paragraph at lines 450--453
-[][][][]\OT1/pcr/m/n/12.045 publisher "publisher" bibinfo.warn * output []\C19/
-zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/54 n \C19/zhfs/bx/n/12.045/46 È \C1
-9/zhfs/bx/n/12.045/62 Ü \C19/zhfs/bx/n/12.045/53 c \C19/zhfs/bx/n/12.045/50 ° \
-C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/65 ä \C19/zhfs/bx/n/12.045/62
- ^ \C19/zhfs/bx/n/12.045/48 a \C19/zhfs/bx/n/12.045/56 q|\C19/zhfs/m/n/12.045/2
-6 ß|
+[][][]\OT1/pcr/m/n/12.045 publisher "publisher" bibinfo.warn * output []\C19/zh
+fs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/54 n \C19/zhfs/bx/n/12.045/46 È \C19/
+zhfs/bx/n/12.045/62 Ü \C19/zhfs/bx/n/12.045/53 c \C19/zhfs/bx/n/12.045/50 ° \C1
+9/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/65 ä \C19/zhfs/bx/n/12.045/62 ^
+ \C19/zhfs/bx/n/12.045/48 a \C19/zhfs/bx/n/12.045/56 q|\C19/zhfs/m/n/12.045/26 
+ß|
  []
 
-[55] [56]
+[55]
+
+Package natbib Warning: Citation `bibgb' on page 56 undefined on input line 563
+.
+
+
+Package natbib Warning: Citation `btxhak' on page 56 undefined on input line 56
+8.
+
+[56]
 Overfull \hbox (8.52013pt too wide) in paragraph at lines 611--613
-[][]\OT1/ptm/m/n/12.045 cite$ write$|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/
-12.045/63 ˘ \C19/zhfs/bx/n/12.045/48 ¸ \C19/zhfs/bx/n/12.045/46 È \C19/zhfs/bx/
-n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/45 Ú \C19/zhfs/bx/n/12.045/61 ⁄ \C19/zhfs/b
-x/n/12.045/62 ^ \C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/57 ^ \C19/zhfs
-/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/59 z \C19/zhfs/bx/n/12.045/40 ^^[\OT1/p
-tm/m/n/12.045 key\C19/zhfs/bx/n/12.045/60 ^^U \C19/zhfs/bx/n/12.045/40 ^^T Ê \C
-19/zhfs/bx/n/12.045/63 “ \C19/zhfs/bx/n/12.045/64 • \C19/zhfs/bx/n/12.045/54 ^^
-V|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/54 , \C19/zhfs/bx/n/12.045/4
-4 ^^@ \C19/zhfs/bx/n/12.045/63 2 \C19/zhfs/bx/n/12.045/45 Ú \C19/zhfs/bx/n/12.0
-45/63 ˘ \C19/zhfs/bx/n/12.045/48 ¸ \C19/zhfs/bx/n/12.045/46 È \C19/zhfs/bx/n/12
-.045/60 ^^U \C19/zhfs/bx/n/12.045/40 ^^T\OT1/ptm/m/n/12.045 *.bbl\C19/zhfs/bx/n
-/12.045/58 ©
+[]\OT1/ptm/m/n/12.045 cite$ write$|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12
+.045/63 ˘ \C19/zhfs/bx/n/12.045/48 ¸ \C19/zhfs/bx/n/12.045/46 È \C19/zhfs/bx/n/
+12.045/55 ¥ \C19/zhfs/bx/n/12.045/45 Ú \C19/zhfs/bx/n/12.045/61 ⁄ \C19/zhfs/bx/
+n/12.045/62 ^ \C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/57 ^ \C19/zhfs/b
+x/n/12.045/58 © \C19/zhfs/bx/n/12.045/59 z \C19/zhfs/bx/n/12.045/40 ^^[\OT1/ptm
+/m/n/12.045 key\C19/zhfs/bx/n/12.045/60 ^^U \C19/zhfs/bx/n/12.045/40 ^^T Ê \C19
+/zhfs/bx/n/12.045/63 “ \C19/zhfs/bx/n/12.045/64 • \C19/zhfs/bx/n/12.045/54 ^^V|
+\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/54 , \C19/zhfs/bx/n/12.045/44 
+^^@ \C19/zhfs/bx/n/12.045/63 2 \C19/zhfs/bx/n/12.045/45 Ú \C19/zhfs/bx/n/12.045
+/63 ˘ \C19/zhfs/bx/n/12.045/48 ¸ \C19/zhfs/bx/n/12.045/46 È \C19/zhfs/bx/n/12.0
+45/60 ^^U \C19/zhfs/bx/n/12.045/40 ^^T\OT1/ptm/m/n/12.045 *.bbl\C19/zhfs/bx/n/1
+2.045/58 ©
  []
 
 
@@ -2381,103 +3115,112 @@ k\C19/zhfs/bx/n/12.045/63 ˘
 
 [57] [58]
 Overfull \hbox (1.19704pt too wide) in paragraph at lines 787--789
-[][]\C19/zhfs/bx/n/12.045/59 e \C19/zhfs/bx/n/12.045/50 ° \C19/zhfs/bx/n/12.045
-/61 ò \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/50 ∑ \C19/zhfs/bx/n/12.0
-45/49 -\OT1/ptm/m/n/12.045 'output.nonnull|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs
-/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/53 c \C19/zh
-fs/bx/n/12.045/50 ° \C19/zhfs/bx/n/12.045/40 ^^[\OT1/ptm/m/n/12.045 '\C19/zhfs/
-bx/n/12.045/43 “ \C19/zhfs/bx/n/12.045/44 Ñ \C19/zhfs/bx/n/12.045/55 ¥ \C19/zhf
-s/bx/n/12.045/37 L \C19/zhfs/bx/n/12.045/55 ´ \C19/zhfs/bx/n/12.045/36 r \C19/z
-hfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/43 º \C19
-/zhfs/bx/n/12.045/55 Í \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/54 \ 
-\C19/zhfs/bx/n/12.045/47 ù \C19/zhfs/bx/n/12.045/60 ÿ \C19/zhfs/bx/n/12.045/54 
-\ \C19/zhfs/bx/n/12.045/40 Ê \C19/zhfs/bx/n/12.045/63 “|\C19/zhfs/m/n/12.045/26
- ß| \C19/zhfs/bx/n/12.045/40 ^^H
+[]\C19/zhfs/bx/n/12.045/59 e \C19/zhfs/bx/n/12.045/50 ° \C19/zhfs/bx/n/12.045/6
+1 ò \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045
+/49 -\OT1/ptm/m/n/12.045 'output.nonnull|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/b
+x/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/53 c \C19/zhfs
+/bx/n/12.045/50 ° \C19/zhfs/bx/n/12.045/40 ^^[\OT1/ptm/m/n/12.045 '\C19/zhfs/bx
+/n/12.045/43 “ \C19/zhfs/bx/n/12.045/44 Ñ \C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/
+bx/n/12.045/37 L \C19/zhfs/bx/n/12.045/55 ´ \C19/zhfs/bx/n/12.045/36 r \C19/zhf
+s/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/43 º \C19/z
+hfs/bx/n/12.045/55 Í \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/54 \ \C
+19/zhfs/bx/n/12.045/47 ù \C19/zhfs/bx/n/12.045/60 ÿ \C19/zhfs/bx/n/12.045/54 \ 
+\C19/zhfs/bx/n/12.045/40 Ê \C19/zhfs/bx/n/12.045/63 “|\C19/zhfs/m/n/12.045/26 ß
+| \C19/zhfs/bx/n/12.045/40 ^^H
  []
 
 [59] [60] [61]
 Overfull \hbox (35.40384pt too wide) in paragraph at lines 1014--1019
-[][]\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045
-/43 º \C19/zhfs/bx/n/12.045/55 Í \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12
-.045/37 ˆ \C19/zhfs/bx/n/12.045/65 ä \C19/zhfs/bx/n/12.045/43 L \C19/zhfs/bx/n/
-12.045/38 ß \C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/59 e|\C19/zhfs/m/n
-/12.045/26 ß| \C19/zhfs/bx/n/12.045/59 k \C19/zhfs/bx/n/12.045/40 È\OT1/ptm/m/n
-/12.045 output.state \C19/zhfs/bx/n/12.045/46 ? \C19/zhfs/bx/n/12.045/60 1 \C19
-/zhfs/bx/n/12.045/52 ^^G \C19/zhfs/bx/n/12.045/40 ‰|\C19/zhfs/m/n/12.045/26 ß| 
-\C19/zhfs/bx/n/12.045/42 ä \C19/zhfs/bx/n/12.045/46 ‚ \C19/zhfs/bx/n/12.045/54 
-˛ \C19/zhfs/bx/n/12.045/50 ° \C19/zhfs/bx/n/12.045/57 J \C19/zhfs/bx/n/12.045/4
-0 ^^T ^^[|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/59 y \C19/zhfs/bx/n/
-12.045/63 3 \C19/zhfs/bx/n/12.045/40 ^^[\OT1/ptm/m/n/12.045 output.state\C19/zh
-fs/bx/n/12.045/40 ^^[
+[]\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/4
+3 º \C19/zhfs/bx/n/12.045/55 Í \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.0
+45/37 ˆ \C19/zhfs/bx/n/12.045/65 ä \C19/zhfs/bx/n/12.045/43 L \C19/zhfs/bx/n/12
+.045/38 ß \C19/zhfs/bx/n/12.045/54 X \C19/zhfs/bx/n/12.045/59 e|\C19/zhfs/m/n/1
+2.045/26 ß| \C19/zhfs/bx/n/12.045/59 k \C19/zhfs/bx/n/12.045/40 È\OT1/ptm/m/n/1
+2.045 output.state \C19/zhfs/bx/n/12.045/46 ? \C19/zhfs/bx/n/12.045/60 1 \C19/z
+hfs/bx/n/12.045/52 ^^G \C19/zhfs/bx/n/12.045/40 ‰|\C19/zhfs/m/n/12.045/26 ß| \C
+19/zhfs/bx/n/12.045/42 ä \C19/zhfs/bx/n/12.045/46 ‚ \C19/zhfs/bx/n/12.045/54 ˛ 
+\C19/zhfs/bx/n/12.045/50 ° \C19/zhfs/bx/n/12.045/57 J \C19/zhfs/bx/n/12.045/40 
+^^T ^^[|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/59 y \C19/zhfs/bx/n/12
+.045/63 3 \C19/zhfs/bx/n/12.045/40 ^^[\OT1/ptm/m/n/12.045 output.state\C19/zhfs
+/bx/n/12.045/40 ^^[
  []
 
 
 Overfull \hbox (1.32932pt too wide) in paragraph at lines 1025--1028
-[][]\C19/zhfs/bx/n/12.045/40 È \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045
-/59 z \C19/zhfs/bx/n/12.045/37 I \C19/zhfs/bx/n/12.045/57 K \C19/zhfs/bx/n/12.0
-45/46 ? \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/42 Ç \C19/zhfs/bx/n/12
-.045/55 ™ \C19/zhfs/bx/n/12.045/44 z|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/
-12.045/54 , \C19/zhfs/bx/n/12.045/44 ^^@ \C19/zhfs/bx/n/12.045/63 2 \C19/zhfs/b
-x/n/12.045/46 ? \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/55 — \C19/zhfs
-/bx/n/12.045/38 —|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/40 ^^B \C19/
-zhfs/bx/n/12.045/62 Ü \C19/zhfs/bx/n/12.045/53 c \C19/zhfs/bx/n/12.045/50 ° \C1
-9/zhfs/bx/n/12.045/55 — \C19/zhfs/bx/n/12.045/38 — \C19/zhfs/bx/n/12.045/37 ÿ \
-C19/zhfs/bx/n/12.045/57 ” \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/55
- û|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/39 d \C19/zhfs/bx/n/12.045/
-55 û\OT1/ptm/m/n/12.045 output.state\C19/zhfs/bx/n/12.045/40 ^^[
+[]\C19/zhfs/bx/n/12.045/40 È \C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/5
+9 z \C19/zhfs/bx/n/12.045/37 I \C19/zhfs/bx/n/12.045/57 K \C19/zhfs/bx/n/12.045
+/46 ? \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/42 Ç \C19/zhfs/bx/n/12.0
+45/55 ™ \C19/zhfs/bx/n/12.045/44 z|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12
+.045/54 , \C19/zhfs/bx/n/12.045/44 ^^@ \C19/zhfs/bx/n/12.045/63 2 \C19/zhfs/bx/
+n/12.045/46 ? \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/55 — \C19/zhfs/b
+x/n/12.045/38 —|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/40 ^^B \C19/zh
+fs/bx/n/12.045/62 Ü \C19/zhfs/bx/n/12.045/53 c \C19/zhfs/bx/n/12.045/50 ° \C19/
+zhfs/bx/n/12.045/55 — \C19/zhfs/bx/n/12.045/38 — \C19/zhfs/bx/n/12.045/37 ÿ \C1
+9/zhfs/bx/n/12.045/57 ” \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/55 û
+|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/39 d \C19/zhfs/bx/n/12.045/55
+ û\OT1/ptm/m/n/12.045 output.state\C19/zhfs/bx/n/12.045/40 ^^[
  []
 
 [62]
 Overfull \hbox (0.99214pt too wide) in paragraph at lines 1069--1071
-[][]\C19/zhfs/bx/n/12.045/59 e \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045
-/57 ^ \C19/zhfs/bx/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045/49 - \C19/zhfs/bx/n/12.0
-45/55 ¥\OT1/ptm/m/n/12.045 write$|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.
-045/46 “ \C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/36 r \C19/zhfs/bx/n/1
-2.045/40 Ê \C19/zhfs/bx/n/12.045/63 “ \C19/zhfs/bx/n/12.045/64 • \C19/zhfs/bx/n
-/12.045/65 Å \C19/zhfs/bx/n/12.045/54 ˛ \C19/zhfs/bx/n/12.045/50 ° \C19/zhfs/bx
-/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/63 ^^C \C19/zhfs/bx/n/12.045/56 É \C19/z
-hfs/bx/n/12.045/60 ^^U \C19/zhfs/bx/n/12.045/40 ^^T\OT1/ptm/m/n/12.045 *.bbl\C1
-9/zhfs/bx/n/12.045/64 •|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 ˘ \
-C19/zhfs/bx/n/12.045/57 ^ \C19/zhfs/bx/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045/49 -
- \C19/zhfs/bx/n/12.045/64 É \C19/zhfs/bx/n/12.045/44 ^^@|\C19/zhfs/m/n/12.045/2
-6 ß| \OT1/ptm/m/n/12.045 *.bbl\C19/zhfs/bx/n/12.045/40 ^^[
+[]\C19/zhfs/bx/n/12.045/59 e \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045/5
+7 ^ \C19/zhfs/bx/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045/49 - \C19/zhfs/bx/n/12.045
+/55 ¥\OT1/ptm/m/n/12.045 write$|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.04
+5/46 “ \C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/36 r \C19/zhfs/bx/n/12.
+045/40 Ê \C19/zhfs/bx/n/12.045/63 “ \C19/zhfs/bx/n/12.045/64 • \C19/zhfs/bx/n/1
+2.045/65 Å \C19/zhfs/bx/n/12.045/54 ˛ \C19/zhfs/bx/n/12.045/50 ° \C19/zhfs/bx/n
+/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/63 ^^C \C19/zhfs/bx/n/12.045/56 É \C19/zhf
+s/bx/n/12.045/60 ^^U \C19/zhfs/bx/n/12.045/40 ^^T\OT1/ptm/m/n/12.045 *.bbl\C19/
+zhfs/bx/n/12.045/64 •|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 ˘ \C1
+9/zhfs/bx/n/12.045/57 ^ \C19/zhfs/bx/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045/49 - \
+C19/zhfs/bx/n/12.045/64 É \C19/zhfs/bx/n/12.045/44 ^^@|\C19/zhfs/m/n/12.045/26 
+ß| \OT1/ptm/m/n/12.045 *.bbl\C19/zhfs/bx/n/12.045/40 ^^[
  []
 
 [63] [64]
+
+Package natbib Warning: Citation `makebst' on page 65 undefined on input line 1
+213.
+
+
 Overfull \hbox (13.70912pt too wide) in paragraph at lines 1228--1236
-[][]\C19/zhfs/bx/n/12.045/46 “ \C19/zhfs/bx/n/12.045/47 å \C19/zhfs/bx/n/12.045
-/61 ± \C19/zhfs/bx/n/12.045/40 ^^Z ^^T \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/
-n/12.045/42 á\OT1/ptm/m/n/12.045 ZJUthesis.bst\C19/zhfs/bx/n/12.045/40 ^^[ \C19
-/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/45 á|\C19/zhfs/m/n/12.045/26 ß| \C
-19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/46 “ 
-\C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045/42 
-á\OT1/ptm/m/n/12.045 *.bst\C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/45 á
-|\C19/zhfs/bx/n/12.045/25 "| \C19/zhfs/bx/n/12.045/40 ^^H \C19/zhfs/bx/n/12.045
-/54 , \C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.0
-45/58 © \C19/zhfs/bx/n/12.045/45 á \C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12
-.045/62 ^\OT1/ptm/m/n/12.045 L[]T[]X\C19/zhfs/bx/n/12.045/51 %
+[]\C19/zhfs/bx/n/12.045/46 “ \C19/zhfs/bx/n/12.045/47 å \C19/zhfs/bx/n/12.045/6
+1 ± \C19/zhfs/bx/n/12.045/40 ^^Z ^^T \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/
+12.045/42 á\OT1/ptm/m/n/12.045 ZJUthesis.bst\C19/zhfs/bx/n/12.045/40 ^^[ \C19/z
+hfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/45 á|\C19/zhfs/m/n/12.045/26 ß| \C19
+/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/46 “ \C
+19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045/42 á\
+OT1/ptm/m/n/12.045 *.bst\C19/zhfs/bx/n/12.045/58 © \C19/zhfs/bx/n/12.045/45 á|\
+C19/zhfs/bx/n/12.045/25 "| \C19/zhfs/bx/n/12.045/40 ^^H \C19/zhfs/bx/n/12.045/5
+4 , \C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045
+/58 © \C19/zhfs/bx/n/12.045/45 á \C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.0
+45/62 ^\OT1/ptm/m/n/12.045 L[]T[]X\C19/zhfs/bx/n/12.045/51 %
  []
 
 [65]
 Overfull \hbox (4.93982pt too wide) in paragraph at lines 1277--1280
-[][]\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/64 ´ \C19/zhfs/bx/n/12.045
-/41 ê \C19/zhfs/bx/n/12.045/55 ™ \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12
-.045/47 å \C19/zhfs/bx/n/12.045/61 ± \C19/zhfs/bx/n/12.045/62 ^ \C19/zhfs/bx/n/
-12.045/48 5 \C19/zhfs/bx/n/12.045/40 È ı \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/b
-x/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045/49 - \C19/zhfs/bx/n/12.045/46 ? \C19/zhfs
-/bx/n/12.045/60 1 \C19/zhfs/bx/n/12.045/55 ^^W \C19/zhfs/bx/n/12.045/64 ò|\C19/
-zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/45 =\OT1/ptm/m/n/12.045 %<*ay>\C19/
-zhfs/bx/n/12.045/62 Ü\OT1/ptm/m/n/12.045 %</ay>\C19/zhfs/bx/n/12.045/64 É \C19/
-zhfs/bx/n/12.045/45 m \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/60 1|\
-C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 3 \C19/zhfs/bx/n/12.045/60 ¿
- \C19/zhfs/bx/n/12.045/59 ë |\C19/zhfs/bx/n/12.045/25 /|\OT1/ptm/m/n/12.045 ay|
-\C19/zhfs/bx/n/12.045/25 0|
+[]\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/64 ´ \C19/zhfs/bx/n/12.045/4
+1 ê \C19/zhfs/bx/n/12.045/55 ™ \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.0
+45/47 å \C19/zhfs/bx/n/12.045/61 ± \C19/zhfs/bx/n/12.045/62 ^ \C19/zhfs/bx/n/12
+.045/48 5 \C19/zhfs/bx/n/12.045/40 È ı \C19/zhfs/bx/n/12.045/60 1 \C19/zhfs/bx/
+n/12.045/50 ∑ \C19/zhfs/bx/n/12.045/49 - \C19/zhfs/bx/n/12.045/46 ? \C19/zhfs/b
+x/n/12.045/60 1 \C19/zhfs/bx/n/12.045/55 ^^W \C19/zhfs/bx/n/12.045/64 ò|\C19/zh
+fs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/45 =\OT1/ptm/m/n/12.045 %<*ay>\C19/zh
+fs/bx/n/12.045/62 Ü\OT1/ptm/m/n/12.045 %</ay>\C19/zhfs/bx/n/12.045/64 É \C19/zh
+fs/bx/n/12.045/45 m \C19/zhfs/bx/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/60 1|\C1
+9/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 3 \C19/zhfs/bx/n/12.045/60 ¿ \
+C19/zhfs/bx/n/12.045/59 ë |\C19/zhfs/bx/n/12.045/25 /|\OT1/ptm/m/n/12.045 ay|\C
+19/zhfs/bx/n/12.045/25 0|
  []
+
+
+Package natbib Warning: Citation `makebst' on page 66 undefined on input line 1
+301.
 
 [66]
 Overfull \hbox (6.76205pt too wide) in paragraph at lines 1340--1344
-[][][][]\OT1/pcr/m/n/12.045 \optdef{a}{ay}{Author-year}{with some non-standard 
-interface} []\C19/zhfs/bx/n/12.045/63 ˘
+[][][]\OT1/pcr/m/n/12.045 \optdef{a}{ay}{Author-year}{with some non-standard in
+terface} []\C19/zhfs/bx/n/12.045/63 ˘
  []
 
 
@@ -2498,7 +3241,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 1340--1344
 
  []
 
+
+Package natbib Warning: Citation `merlin' on page 67 undefined on input line 13
+51.
+
 [67]
+
+Package natbib Warning: Citation `bibgb' on page 68 undefined on input line 136
+1.
+
+
 Overfull \hbox (15.31393pt too wide) in paragraph at lines 1386--1386
 []\OT1/pcr/m/n/9.03374 \optdef{*}{no-auword}{The separate out reference type fl
 ag exist}{//editorname, BookTitle}[] 
@@ -2509,6 +3261,10 @@ Overfull \hbox (36.9949pt too wide) in paragraph at lines 1386--1386
 []\OT1/pcr/m/n/9.03374 \optdef{n}{}{The separate out reference type flag not ex
 ist}{In editorname, editor, BookTitle}[] 
  []
+
+
+Package natbib Warning: Citation `merlin' on page 68 undefined on input line 14
+19.
 
 ) [68] [69]
 \openout2 = `./Chapters/chap6.aux'.
@@ -2543,49 +3299,49 @@ C19/zhfs/bx/n/12.045/47 å \C19/zhfs/bx/n/12.045/61 ± \C19/zhfs/bx/n/12.045/47 w
 
 [72] [73] [74]
 Overfull \hbox (1.148pt too wide) in paragraph at lines 295--297
-[][]\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/48 ¸ \C19/zhfs/bx/n/12.045
-/42 á \C19/zhfs/bx/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045/49 - \C19/zhfs/bx/n/12.0
-45/40 ^^[ \C19/zhfs/bx/n/12.045/37 Î \C19/zhfs/bx/n/12.045/47 ^^? \C19/zhfs/bx/
-n/12.045/58 © \C19/zhfs/bx/n/12.045/40 ^^L|\C19/zhfs/m/n/12.045/26 µ| \OT1/ptm/
-m/n/12.045 tocloft.pdf\C19/zhfs/bx/n/12.045/43 ⁄\OT1/ptm/m/n/12.045 ctex.pdf|\C
-19/zhfs/bx/n/12.045/25 "|  \OT1/ptm/m/n/12.045 3.5em\C19/zhfs/bx/n/12.045/47 å 
-\C19/zhfs/bx/n/12.045/61 ± \C19/zhfs/bx/n/12.045/65 g \C19/zhfs/bx/n/12.045/60 
-1 \C19/zhfs/bx/n/12.045/55 ^^W \C19/zhfs/bx/n/12.045/64 ò|\C19/zhfs/bx/n/12.045
-/25 "| \C19/zhfs/bx/n/12.045/37 ' \C19/zhfs/bx/n/12.045/54 X\OT1/ptm/m/n/12.045
- 4em|\C19/zhfs/m/n/12.045/26 ß| \OT1/ptm/m/n/12.045 3.9em|\C19/zhfs/m/n/12.045/
-26 ß|
+[]\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/48 ¸ \C19/zhfs/bx/n/12.045/4
+2 á \C19/zhfs/bx/n/12.045/50 ∑ \C19/zhfs/bx/n/12.045/49 - \C19/zhfs/bx/n/12.045
+/40 ^^[ \C19/zhfs/bx/n/12.045/37 Î \C19/zhfs/bx/n/12.045/47 ^^? \C19/zhfs/bx/n/
+12.045/58 © \C19/zhfs/bx/n/12.045/40 ^^L|\C19/zhfs/m/n/12.045/26 µ| \OT1/ptm/m/
+n/12.045 tocloft.pdf\C19/zhfs/bx/n/12.045/43 ⁄\OT1/ptm/m/n/12.045 ctex.pdf|\C19
+/zhfs/bx/n/12.045/25 "|  \OT1/ptm/m/n/12.045 3.5em\C19/zhfs/bx/n/12.045/47 å \C
+19/zhfs/bx/n/12.045/61 ± \C19/zhfs/bx/n/12.045/65 g \C19/zhfs/bx/n/12.045/60 1 
+\C19/zhfs/bx/n/12.045/55 ^^W \C19/zhfs/bx/n/12.045/64 ò|\C19/zhfs/bx/n/12.045/2
+5 "| \C19/zhfs/bx/n/12.045/37 ' \C19/zhfs/bx/n/12.045/54 X\OT1/ptm/m/n/12.045 4
+em|\C19/zhfs/m/n/12.045/26 ß| \OT1/ptm/m/n/12.045 3.9em|\C19/zhfs/m/n/12.045/26
+ ß|
  []
 
 
 Overfull \hbox (78.3083pt too wide) in paragraph at lines 318--323
-[][]\OT1/ptm/m/n/12.045 chenchao\C19/zhfs/bx/n/12.045/57 ” \C19/zhfs/bx/n/12.04
-5/60 ∆ \C19/zhfs/bx/n/12.045/63 Q \C19/zhfs/bx/n/12.045/41 u \C19/zhfs/bx/n/12.
-045/62 e \C19/zhfs/bx/n/12.045/45 á \C19/zhfs/bx/n/12.045/58 Ø ∑ \C19/zhfs/bx/n
-/12.045/54 X \C19/zhfs/bx/n/12.045/43 € \C19/zhfs/bx/n/12.045/55 ¢ \C19/zhfs/bx
-/n/12.045/59 y \C19/zhfs/bx/n/12.045/48 a \C19/zhfs/bx/n/12.045/54 X\OT1/ptm/m/
-n/12.045 [1-6]\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/64 ´ \C19/zhfs/b
-x/n/12.045/58 © \C19/zhfs/bx/n/12.045/59 z \C19/zhfs/bx/n/12.045/61 ⁄ \C19/zhfs
-/bx/n/12.045/62 ^ \C19/zhfs/bx/n/12.045/37 I \C19/zhfs/bx/n/12.045/65 5 \C19/zh
-fs/bx/n/12.045/40 ^^[|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 ˘ \C1
-9/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/55 ¢ \C19/zhfs/bx/n/12.045/59 y \
-C19/zhfs/bx/n/12.045/46 “ \C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/47 Ç
-\OT1/ptm/m/n/12.045 sort&compress\C19/zhfs/bx/n/12.045/63 ˘
+[]\OT1/ptm/m/n/12.045 chenchao\C19/zhfs/bx/n/12.045/57 ” \C19/zhfs/bx/n/12.045/
+60 ∆ \C19/zhfs/bx/n/12.045/63 Q \C19/zhfs/bx/n/12.045/41 u \C19/zhfs/bx/n/12.04
+5/62 e \C19/zhfs/bx/n/12.045/45 á \C19/zhfs/bx/n/12.045/58 Ø ∑ \C19/zhfs/bx/n/1
+2.045/54 X \C19/zhfs/bx/n/12.045/43 € \C19/zhfs/bx/n/12.045/55 ¢ \C19/zhfs/bx/n
+/12.045/59 y \C19/zhfs/bx/n/12.045/48 a \C19/zhfs/bx/n/12.045/54 X\OT1/ptm/m/n/
+12.045 [1-6]\C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/64 ´ \C19/zhfs/bx/
+n/12.045/58 © \C19/zhfs/bx/n/12.045/59 z \C19/zhfs/bx/n/12.045/61 ⁄ \C19/zhfs/b
+x/n/12.045/62 ^ \C19/zhfs/bx/n/12.045/37 I \C19/zhfs/bx/n/12.045/65 5 \C19/zhfs
+/bx/n/12.045/40 ^^[|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 ˘ \C19/
+zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/55 ¢ \C19/zhfs/bx/n/12.045/59 y \C1
+9/zhfs/bx/n/12.045/46 “ \C19/zhfs/bx/n/12.045/55 ¥ \C19/zhfs/bx/n/12.045/47 Ç\O
+T1/ptm/m/n/12.045 sort&compress\C19/zhfs/bx/n/12.045/63 ˘
  []
 
 [75]
 Overfull \hbox (35.58516pt too wide) in paragraph at lines 352--356
-[][]\OT1/ptm/m/n/12.045 GBK\C19/zhfs/bx/n/12.045/36 á \C19/zhfs/bx/n/12.045/62 
-Ü\OT1/ptm/m/n/12.045 UTF-8\C19/zhfs/bx/n/12.045/36 á \C19/zhfs/bx/n/12.045/40 ^
-^[ \C19/zhfs/bx/n/12.045/58 ç \C19/zhfs/bx/n/12.045/61 ò ò \C19/zhfs/bx/n/12.04
-5/40 : \C19/zhfs/bx/n/12.045/53 ´ \C19/zhfs/bx/n/12.045/37 O \C19/zhfs/bx/n/12.
-045/63 3 \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/1
-2.045/65 i \C19/zhfs/bx/n/12.045/57 N \C19/zhfs/bx/n/12.045/36 ù \C19/zhfs/bx/n
-/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/61 ⁄ \C19/zhfs/bx/n/12.045/62 ^|\C19/zhfs/
-bx/n/12.045/25 "| \C19/zhfs/bx/n/12.045/63 3\OT1/ptm/m/n/12.045 UTF-8\C19/zhfs/
-bx/n/12.045/36 á \C19/zhfs/bx/n/12.045/64 •|\C19/zhfs/m/n/12.045/26 ß| \C19/zhf
-s/bx/n/12.045/55 ¶ \C19/zhfs/bx/n/12.045/62 ^ \C19/zhfs/bx/n/12.045/40 ^^[ \C19
-/zhfs/bx/n/12.045/55 ¥\OT1/ptm/m/n/12.045 fontspec\C19/zhfs/bx/n/12.045/36 ù|\C
-19/zhfs/m/n/12.045/26 ß|
+[]\OT1/ptm/m/n/12.045 GBK\C19/zhfs/bx/n/12.045/36 á \C19/zhfs/bx/n/12.045/62 Ü\
+OT1/ptm/m/n/12.045 UTF-8\C19/zhfs/bx/n/12.045/36 á \C19/zhfs/bx/n/12.045/40 ^^[
+ \C19/zhfs/bx/n/12.045/58 ç \C19/zhfs/bx/n/12.045/61 ò ò \C19/zhfs/bx/n/12.045/
+40 : \C19/zhfs/bx/n/12.045/53 ´ \C19/zhfs/bx/n/12.045/37 O \C19/zhfs/bx/n/12.04
+5/63 3 \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.
+045/65 i \C19/zhfs/bx/n/12.045/57 N \C19/zhfs/bx/n/12.045/36 ù \C19/zhfs/bx/n/1
+2.045/40 ^^[ \C19/zhfs/bx/n/12.045/61 ⁄ \C19/zhfs/bx/n/12.045/62 ^|\C19/zhfs/bx
+/n/12.045/25 "| \C19/zhfs/bx/n/12.045/63 3\OT1/ptm/m/n/12.045 UTF-8\C19/zhfs/bx
+/n/12.045/36 á \C19/zhfs/bx/n/12.045/64 •|\C19/zhfs/m/n/12.045/26 ß| \C19/zhfs/
+bx/n/12.045/55 ¶ \C19/zhfs/bx/n/12.045/62 ^ \C19/zhfs/bx/n/12.045/40 ^^[ \C19/z
+hfs/bx/n/12.045/55 ¥\OT1/ptm/m/n/12.045 fontspec\C19/zhfs/bx/n/12.045/36 ù|\C19
+/zhfs/m/n/12.045/26 ß|
  []
 
 [76] [77]
@@ -2633,112 +3389,143 @@ ad&tid=152755|\C19/zhfs/m/n/12.045/26 §|
 
 ] [80]
 Overfull \hbox (15.56651pt too wide) in paragraph at lines 136--137
-[][]\C19/zhfs/bx/n/12.045/61 è \C19/zhfs/bx/n/12.045/47 å \C19/zhfs/bx/n/12.045
-/61 ± \C19/zhfs/bx/n/12.045/45 Q \C19/zhfs/bx/n/12.045/62 k \C19/zhfs/bx/n/12.0
-45/58 © \C19/zhfs/bx/n/12.045/65 i \C19/zhfs/bx/n/12.045/62 q \C19/zhfs/bx/n/12
-.045/37 ÿ \C19/zhfs/bx/n/12.045/57 „ \C19/zhfs/bx/n/12.045/52 °|\C19/zhfs/m/n/1
-2.045/26 ß| \C19/zhfs/bx/n/12.045/65 â \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/
-n/12.045/42 á \C19/zhfs/bx/n/12.045/59 É \C19/zhfs/bx/n/12.045/62 A \C19/zhfs/b
-x/n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/51 ¸ \C19/zhfs/bx/n/12.045/37 Ÿ|\C19/zh
-fs/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/
-zhfs/bx/n/12.045/40 / \C19/zhfs/bx/n/12.045/41 ê \C19/zhfs/bx/n/12.045/48 | \C1
-9/zhfs/bx/n/12.045/62 ^\OT1/ptm/m/n/12.045 columns\C19/zhfs/bx/n/12.045/63 ˘ \C
-19/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/44 Ç \C19/zhfs/bx/n/12.045/46 ∏ 
-\C19/zhfs/bx/n/12.045/40 È\OT1/ptm/m/n/12.045 frame\C19/zhfs/bx/n/12.045/46 ?
+[]\C19/zhfs/bx/n/12.045/61 è \C19/zhfs/bx/n/12.045/47 å \C19/zhfs/bx/n/12.045/6
+1 ± \C19/zhfs/bx/n/12.045/45 Q \C19/zhfs/bx/n/12.045/62 k \C19/zhfs/bx/n/12.045
+/58 © \C19/zhfs/bx/n/12.045/65 i \C19/zhfs/bx/n/12.045/62 q \C19/zhfs/bx/n/12.0
+45/37 ÿ \C19/zhfs/bx/n/12.045/57 „ \C19/zhfs/bx/n/12.045/52 °|\C19/zhfs/m/n/12.
+045/26 ß| \C19/zhfs/bx/n/12.045/65 â \C19/zhfs/bx/n/12.045/61 ò \C19/zhfs/bx/n/
+12.045/42 á \C19/zhfs/bx/n/12.045/59 É \C19/zhfs/bx/n/12.045/62 A \C19/zhfs/bx/
+n/12.045/40 ^^[ \C19/zhfs/bx/n/12.045/51 ¸ \C19/zhfs/bx/n/12.045/37 Ÿ|\C19/zhfs
+/m/n/12.045/26 ß| \C19/zhfs/bx/n/12.045/63 ˘ \C19/zhfs/bx/n/12.045/42 á \C19/zh
+fs/bx/n/12.045/40 / \C19/zhfs/bx/n/12.045/41 ê \C19/zhfs/bx/n/12.045/48 | \C19/
+zhfs/bx/n/12.045/62 ^\OT1/ptm/m/n/12.045 columns\C19/zhfs/bx/n/12.045/63 ˘ \C19
+/zhfs/bx/n/12.045/42 á \C19/zhfs/bx/n/12.045/44 Ç \C19/zhfs/bx/n/12.045/46 ∏ \C
+19/zhfs/bx/n/12.045/40 È\OT1/ptm/m/n/12.045 frame\C19/zhfs/bx/n/12.045/46 ?
  []
 
-[81]) [82] (./¬€Œƒƒ£∞Ê æ¿˝.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
-[][]\OT1/ptm/m/n/10.53937 CTeX\C19/zhfs/m/n/10.53937/49 ÿ \C19/zhfs/m/n/10.5393
-7/57 ^^\\OT1/ptm/m/n/10.53937 .  \C19/zhfs/bx/n/10.53937/61 ò \C19/zhfs/m/n/10.
-53937/41 ∞ \C19/zhfs/m/n/10.53937/37 ÿ \C19/zhfs/m/n/10.53937/57 ^^T \C19/zhfs/
-m/n/10.53937/45 { \C19/zhfs/bx/n/10.53937/40 · ^^[[]\C19/zhfs/m/n/10.53937/46 0
- \C19/zhfs/bx/n/10.53937/55 \OT1/ptm/m/n/10.53937 [EB/OL].  \C19/zhfs/m/n/10.5
-3937/64 • \C19/zhfs/m/n/10.53937/43 I\OT1/ptm/m/n/10.53937 :\C19/zhfs/m/n/10.53
-937/64 • \C19/zhfs/bx/n/10.53937/58 ©\OT1/ptm/m/n/10.53937 T[]X\C19/zhfs/m/n/10
-.53937/60 ∆ \C19/zhfs/m/n/10.53937/44 ¨\OT1/ptm/m/n/10.53937 , 2007.
- []
-
-
-Underfull \hbox (badness 2150) in paragraph at lines 19--23
-[][]\C19/zhfs/m/n/10.53937/63 ‹ \C19/zhfs/m/n/10.53937/49 ^^U \C19/zhfs/m/n/10.
-53937/37 ≈\OT1/ptm/m/n/10.53937 .  \C19/zhfs/m/n/10.53937/43 ' \C19/zhfs/m/n/10
-.53937/62 u \C19/zhfs/m/n/10.53937/60 # \C19/zhfs/m/n/10.53937/36 á\OT1/ptm/m/n
-/10.53937 CCT\C19/zhfs/bx/n/10.53937/40 ^^[ \C19/zhfs/m/n/10.53937/56 ` \C19/zh
-fs/m/n/10.53937/50 ≤\OT1/ptm/m/n/10.53937 [EB/OL].  \C19/zhfs/m/n/10.53937/64 •
- \C19/zhfs/m/n/10.53937/43 I\OT1/ptm/m/n/10.53937 :\C19/zhfs/m/n/10.53937/64 • 
-\C19/zhfs/m/n/10.53937/43 I \C19/zhfs/m/n/10.53937/47 â \C19/zhfs/m/n/10.53937/
-60 ∆ \C19/zhfs/m/n/10.53937/63 ^^S \C19/zhfs/bx/n/10.53937/55 Í \C19/zhfs/m/n/1
-0.53937/60 ∆ \C19/zhfs/m/n/10.53937/62 Ü \C19/zhfs/m/n/10.53937/59 X \C19/zhfs/
-m/n/10.53937/57 ⁄ \C19/zhfs/m/n/10.53937/47 â \C19/zhfs/m/n/10.53937/60 ∆ Ô \C1
-9/zhfs/m/n/10.53937/46 ƒ \C19/zhfs/m/n/10.53937/63 ^^S\OT1/ptm/m/n/10.53937 , 2
-006.
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 68--72
-[][]\OT1/ptm/m/n/10.53937 Patrick W. Daly.  Nat-u-ral sci-ences ci-ta-tions and
- ref-er-ences[EB].  2009.  doc/texlive-latex-base-
- []
-
-) [83
-
-
-
-]
+[81]) [82]
+No file ¬€Œƒƒ£∞Ê æ¿˝.bbl.
 \openout2 = `./Chapters/appendix.aux'.
 
- (./Chapters/appendix.tex [84
-
-
-]) [85
-
-] (./¬€Œƒƒ£∞Ê æ¿˝.ind [86
+(./Chapters/appendix.tex [83
 
 
 
-])
+
+]) [84
+
+]
+No file ¬€Œƒƒ£∞Ê æ¿˝.ind.
 \openout2 = `./Chapters/resume.aux'.
 
+(./Chapters/resume.tex) [85
 
-(./Chapters/resume.tex) [87
 
 
 
 ]
 \openout2 = `./Chapters/publications.aux'.
 
- (./Chapters/publications.tex) [88
+ (./Chapters/publications.tex) [86
 
 
 
 ]
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 243.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 243.
-
 (./¬€Œƒƒ£∞Ê æ¿˝.aux (./Chapters/corrigenda.aux) (./Chapters/thanks.aux)
 (./Chapters/preface.aux) (./Chapters/abstractC.aux) (./Chapters/abstractE.aux)
 (./Chapters/symbol.aux) (./Chapters/chap1.aux) (./Chapters/chap2.aux)
 (./Chapters/chap3.aux) (./Chapters/chap4.aux) (./Chapters/chap5.aux)
 (./Chapters/chap6.aux) (./Chapters/chap7.aux) (./Chapters/appendix.aux)
 (./Chapters/resume.aux) (./Chapters/publications.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 243.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 243.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 243.
-Package rerunfilecheck Info: File `¬€Œƒƒ£∞Ê æ¿˝.out' has not changed.
-(rerunfilecheck)             Checksum: 58D02C396C9486E9E39B4585C674D84C;6987.
 
+
+Package rerunfilecheck Warning: File `¬€Œƒƒ£∞Ê æ¿˝.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `¬€Œƒƒ£∞Ê æ¿˝.out':
+(rerunfilecheck)             Before: 930FE8BFECA1BFC4F9FC1E168725D8C3;4096
+(rerunfilecheck)             After:  45072151E9D83FB45CD3B29038C59C98;14171.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 243.
  ) 
 Here is how much of TeX's memory you used:
- 25696 strings out of 492647
- 468109 string characters out of 6133351
- 488876 words of memory out of 5000000
- 28990 multiletter control sequences out of 15000+600000
- 677784 words of font info for 544 fonts, out of 8000000 for 9000
+ 30431 strings out of 492642
+ 535788 string characters out of 6133162
+ 621369 words of memory out of 5000000
+ 32946 multiletter control sequences out of 15000+600000
+ 698146 words of font info for 569 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,18n,65p,109972b,789s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,18n,65p,905b,554s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/Windows/Fonts/SIMLI.TTF><c:/Windows/Fonts/SIMLI.TTF><c:/Windows/Fonts/SIM
+YOU.TTF><c:/Windows/Fonts/SIMYOU.TTF><c:/Windows/Fonts/simkai.ttf><c:/Windows/F
+onts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf>{c:/t
+exlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Windows/Fonts/simhei.ttf
+><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/si
+mhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/
+Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/
+Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.
+ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts
+/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windo
+ws/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><
+c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simh
+ei.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
+onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
+indows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfan
+g.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/F
+onts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c
+:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simk
+ai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fo
+nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
+ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
+c><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
+simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
+s/Fonts/simfang.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
+c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
+fang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows
+/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simfang.ttf><c
+:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsu
+n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
+ts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/
+Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfa
+ng.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/
+Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><
+c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/si
+mfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windo
+ws/Fonts/simfang.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
+sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+onts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/W
+indows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
+tc><c:/Windows/Fonts/simsun.ttc><c:/texlive/2018/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/te
+xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2018/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2018/texmf-dist/fonts/ty
+pe1/urw/courier/ucrr8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/ut
+mb8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texli
+ve/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ¬€Œƒƒ£∞Ê æ¿˝.pdf (103 pages, 3116187 bytes).
+PDF statistics:
+ 1481 PDF objects out of 1728 (max. 8388607)
+ 1144 compressed objects within 12 object streams
+ 299 named destinations out of 1000 (max. 500000)
+ 575 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on ¬€Œƒƒ£∞Ê æ¿˝.dvi (106 pages, 515404 bytes).

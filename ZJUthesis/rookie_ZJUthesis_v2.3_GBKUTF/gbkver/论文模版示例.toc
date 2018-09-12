@@ -102,9 +102,7 @@
 \contentsline {subsection}{\numberline {7.3.5}插入图片}{81}{subsection.7.3.5}
 \contentsline {subsection}{\numberline {7.3.6}插入表格}{82}{subsection.7.3.6}
 \contentsline {section}{\numberline {7.4}动态效果}{82}{section.7.4}
-\contentsline {chapter}{参考文献}{83}{chapter*.36}
-\contentsline {chapter}{附录A}{84}{appendix*.37}
-\contentsline {chapter}{附录B}{85}{appendix*.38}
-\contentsline {chapter}{索引}{86}{section*.39}
-\contentsline {chapter}{作者简历}{87}{appendix*.40}
-\contentsline {chapter}{发表文章目录}{88}{appendix*.41}
+\contentsline {chapter}{附录A}{83}{appendix*.36}
+\contentsline {chapter}{附录B}{84}{appendix*.37}
+\contentsline {chapter}{作者简历}{85}{appendix*.39}
+\contentsline {chapter}{发表文章目录}{86}{appendix*.40}
